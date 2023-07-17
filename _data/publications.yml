@@ -1,7 +1,7 @@
 main:
 
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
-    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (*: equally contributed)
+    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (* equally contributed)
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.07250
