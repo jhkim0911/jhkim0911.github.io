@@ -48,15 +48,6 @@ conf:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BAyOeKJjf0IJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGVTgc:ABFrs3wAAAAAZLWTVge12t2-Au-a1vglVkYFh-s&scisig=ABFrs3wAAAAAZLWTVjuqn3-nKGXEsVQ2cQeigzs&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1 
     image: ./assets/img/teaser_example.png
 
-  - title: "Robust Perturbation for Visual Explanation: Cross-Checking Mask Optimization to Avoid Class Distortion"
-    authors: <strong>Junho Kim</strong>, Seongyeop Kim, Seong Tae Kim, Yong Man Ro
-    conference_short: TIP
-    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2021.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9633238
-    code: https://github.com/jhkim0911/Robust-Perturbation
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rxUYiweUpxUJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGSUTY:ABFrs3wAAAAAZLWUSTax18N41XJ6wgnKDTOQwwg&scisig=ABFrs3wAAAAAZLWUSVHUKfN9-3y0XAK0BqC2cOI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
-    image: ./assets/img/teaser_example.png
-
   - title: "Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck"
     authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (* <strong>Co-First authors</strong>)
     conference_short: NeurIPS
