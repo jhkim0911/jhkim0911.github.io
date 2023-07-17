@@ -1,22 +1,32 @@
 main:
 
-  - title: Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning
+  - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
     authors: Byung-Kwan Lee\*, **Junho Kim**\*, Yong Man Ro (*: **equally contributed**)
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.07250
     code: https://github.com/ByungKwanLee/Double-Debiased-Adversary
+    page: -
     bibtex: -
     image: ./assets/img/teaser_example_2.png
     <!-- notes: Early Accept -->
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    conference_short: ICIP
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
+    pdf: -
+    code: -
+    page: -
+    bibtex: -
+    image: ./assets/img/teaser_example.png
+
+  - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: ICIP
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
+    pdf: -
+    code: -
+    page: -
+    bibtex: -
     image: ./assets/img/teaser_example.png
