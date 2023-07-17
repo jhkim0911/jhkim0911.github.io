@@ -50,3 +50,43 @@ main:
     page: -
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:TM31g4AlI1EJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGVol4:ABFrs3wAAAAAZLWTul5y1djJBBok3z5Kx2DtcQQ&scisig=ABFrs3wAAAAAZLWTulAgA-MR3d8Bn7BxzN3-bNw&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/teaser_example.png
+
+  - title: "Robust Perturbation for Visual Explanation: Cross-Checking Mask Optimization to Avoid Class Distortion"
+    authors: <strong>Junho Kim</strong>, Seongyeop Kim, Seong Tae Kim, Yong Man Ro
+    conference_short: TIP
+    conference: IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9633238
+    code: https://github.com/jhkim0911/Robust-Perturbation
+    page: -
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rxUYiweUpxUJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGSUTY:ABFrs3wAAAAAZLWUSTax18N41XJ6wgnKDTOQwwg&scisig=ABFrs3wAAAAAZLWUSVHUKfN9-3y0XAK0BqC2cOI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example.png
+
+  - title: "Interpretation of Lesional Detection via Counterfactual Generation"
+    authors: <strong>Junho Kim<\strong>, Minsu Kim, Yong Man Ro
+    conference_short: ICIP
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9506282
+    code: https://github.com/Ivylab/XCAD2021
+    page: -
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:8Mw8Qny5FQMJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGS25s:ABFrs3wAAAAAZLWUw5tT6TYwS7KfNnEMMl8LktI&scisig=ABFrs3wAAAAAZLWUw_4yNIesdQMsBkASXPbB7uQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example.png
+
+  - title: "Unsupervised disentangling of viewpoint and residues variations by substituting representations for robust face recognition"
+    authors: Minsu Kim, Joanna Hong, <strong>Junho Kim<\strong>, Hong Joo Lee, Yong Man Ro
+    conference_short: ICPR
+    conference: International Conference on Pattern Recognition <strong>(ICPR)</strong>, 2020.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9413039
+    code: -
+    page: -
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:OTjt3JfPPVsJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGTJXA:ABFrs3wAAAAAZLWVPXB43nT6MSDT03bR7HwbcpU&scisig=ABFrs3wAAAAAZLWVPYIGmrPpDs93yFn1m5H-y4s&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/teaser_example.png
+
+  - title: "Learning Style Correlation for Elaborate Few-Shot Classification"
+    authors: <strong>Junho Kim<\strong>, Minsu Kim, Jung Uk Kim, Hong Joo Lee, Sangmin Lee, Joanna Hong, Yong Man Ro
+    conference_short: ICIP
+    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2020.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9190685
+    code: -
+    page: -
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ct7Te_DB_5wJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGTQZk:ABFrs3wAAAAAZLWVWZlk9MZ5MvxSnRgurloe58I&scisig=ABFrs3wAAAAAZLWVWegRlhsk4xTBVf1r8DFH6Oc&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/teaser_example.png
