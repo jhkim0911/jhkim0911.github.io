@@ -11,6 +11,11 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 - **Computer Vision:** image recognition, image segmentation, image captioning
 - **Machine Learning:** causal inference, explainable ai, adversarial robustness
 
+## Education
+
+- **KAIST**, Daejeon, South Korea (2019 - present)
+- **Dongguk University**, Seoul, South Korea (2012 - 2019)
+
 ## News
 
 - **[Jul. 2023]** One paper is accepted to ICCV 2023!
