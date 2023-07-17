@@ -40,4 +40,8 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 
 ***
 
+{% include_relative _includes/experience.md %}
+
+***
+
 {% include_relative _includes/services.md %}
