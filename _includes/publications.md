@@ -3,9 +3,9 @@
 <div class="publications">
 <ol class="bibliography">
 
-<h4 style="margin:0 10px 0;">International Conference</h4>
+<h3 style="margin:0 10px 0;">International Conference</h3>
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.publications.conf %}
 
 <li>
 <div class="pub-row">
