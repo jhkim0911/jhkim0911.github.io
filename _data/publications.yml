@@ -1,7 +1,7 @@
 main:
 
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
-    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (* <strong>equally contributed<\strong>)
+    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (* <strong>equally contributed</strong>)
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.07250
@@ -19,7 +19,7 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression"
-    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (* <strong>equally contributed<\strong>)
+    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (* <strong>equally contributed</strong>)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2303.01052
@@ -28,7 +28,7 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network"
-    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (* <strong>equally contributed<\strong>**)
+    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (* <strong>equally contributed</strong>**)
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
     pdf: https://arxiv.org/abs/2204.02738
@@ -37,7 +37,7 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck"
-    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (* <strong>equally contributed<\strong>**)
+    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (* <strong>equally contributed</strong>**)
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021.
     pdf: https://arxiv.org/abs/2204.02735
@@ -55,7 +55,7 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Interpretation of Lesional Detection via Counterfactual Generation"
-    authors: <strong>Junho Kim<\strong>, Minsu Kim, Yong Man Ro
+    authors: <strong>Junho Kim</strong>, Minsu Kim, Yong Man Ro
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/abstract/document/9506282
@@ -64,7 +64,7 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Unsupervised disentangling of viewpoint and residues variations by substituting representations for robust face recognition"
-    authors: Minsu Kim, Joanna Hong, <strong>Junho Kim<\strong>, Hong Joo Lee, Yong Man Ro
+    authors: Minsu Kim, Joanna Hong, <strong>Junho Kim</strong>, Hong Joo Lee, Yong Man Ro
     conference_short: ICPR
     conference: International Conference on Pattern Recognition <strong>(ICPR)</strong>, 2020.
     pdf: https://ieeexplore.ieee.org/abstract/document/9413039
@@ -72,7 +72,7 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Learning Style Correlation for Elaborate Few-Shot Classification"
-    authors: <strong>Junho Kim<\strong>, Minsu Kim, Jung Uk Kim, Hong Joo Lee, Sangmin Lee, Joanna Hong, Yong Man Ro
+    authors: <strong>Junho Kim</strong>, Minsu Kim, Jung Uk Kim, Hong Joo Lee, Sangmin Lee, Joanna Hong, Yong Man Ro
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2020.
     pdf: https://ieeexplore.ieee.org/abstract/document/9190685
