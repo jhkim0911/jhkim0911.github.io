@@ -5,7 +5,7 @@
 
 <h3 style="margin:0 10px 0;">International Journal</h3>
 
-{% for link in site.data.publications.conf %}
+{% for link in site.data.publications.jour %}
 
 <li>
 <div class="pub-row">
