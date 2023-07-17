@@ -1,7 +1,7 @@
 main:
 
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
-    authors: Byung-Kwan Lee\*, <strong>Junho Kim\*</strong>, Yong Man Ro (*: **equally contributed**)
+    authors: Byung-Kwan Lee\*, <strong>Junho Kim\*</strong>, Yong Man Ro (*: <strong>equally contributed<\strong>**)
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.07250
@@ -22,11 +22,11 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: ICIP
-    conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
-    pdf: -
-    code: -
+    authors: <strong>Junho Kim\*</strong>, Byung-Kwan Lee\*, Yong Man Ro (*: <strong>equally contributed<\strong>**)
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
+    pdf: https://arxiv.org/abs/2303.01052
+    code: https://github.com/ByungKwanLee/Causal-Adversarial-Instruments
     page: -
-    bibtex: -
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GNzw-FHxD58J:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGUqS0:ABFrs3wAAAAAZLWSsS3gkjHW5mAxDYguq9o-doM&scisig=ABFrs3wAAAAAZLWSsZNu_BhA8h44nRcAxn8ZppQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/teaser_example.png
