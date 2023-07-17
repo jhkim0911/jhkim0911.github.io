@@ -13,6 +13,9 @@ main:
     authors: YeonJu Kim, <strong>Junho Kim</strong>, Byung-Kwan Lee, Sebin Shin, Yong Man Ro
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
+    pdf: https://arxiv.org/abs/
+    code: https://github.com
+    bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/teaser_example.png
 
   - title: "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression"
