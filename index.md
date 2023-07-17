@@ -4,19 +4,21 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Korea Advanced Institute of Science and Technology. I am researching in Image and Video Systems Lab., under the supervision of Professor Yong Man Ro. I have experiences with mainly machine learning, deep learning, and computer vision. Now I am more focusing on explainable ai, segmentation, adversarial robustness, and causal inference.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image recognition, image segmentation, image captioning
+- **Machine Learning:** causal inference, explainable ai, adversarial robustness
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Jul. 2023]** One paper is accepted to ICCV 2023!
+- **[Jun. 2023]** One paper is accepted to ICIP 2023!
+- **[Feb. 2023]** One paper is accepted to CVPR 2023!
+- **[Mar. 2022]** One paper is accepted to CVPR 2022!
+- **[Nov. 2021]** One paper is accepted to IEEE TIP!
+- **[Sep. 2021]** One paper is accepted to NeurIPS 2021!
 
 {% include_relative _includes/publications.md %}
 
