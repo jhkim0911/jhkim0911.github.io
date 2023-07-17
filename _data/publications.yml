@@ -1,7 +1,7 @@
 main:
 
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
-    authors: Byung-Kwan Lee\*, **Junho Kim**\*, Yong Man Ro (*: **equally contributed**)
+    authors: Byung-Kwan Lee\*, <strong>Junho Kim\*</strong>, Yong Man Ro (*: **equally contributed**)
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.07250
@@ -12,7 +12,7 @@ main:
     <!-- notes: Early Accept -->
 
   - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    authors: YeonJu Kim, <strong>Junho Kim</strong>, Byung-Kwan Lee, Sebin Shin, Yong Man Ro
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
     pdf: -
@@ -21,7 +21,7 @@ main:
     bibtex: -
     image: ./assets/img/teaser_example.png
 
-  - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
+  - title: "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: ICIP
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
