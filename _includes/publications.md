@@ -12,13 +12,13 @@
             <abbr class="badge">{{ link.conference_short }}</abbr>
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{https://arxiv.org/abs/2307.07250}}">{{Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning}}</a></div>
-      <div class="author">{{Byung-Kwan Lee\*, **Junho Kim**\*, Yong Man Ro (*: **equally contributed**)}}</div>
-      <div class="periodical"><em>{{IEEE/CVF International Conference on Computer Vision (ICCV), 2023}}</em>
+      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
       {% if link.pdf %} 
-      <a href="{{https://arxiv.org/abs/2307.07250}}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Paper</a>
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       {% endif %}
       {% if link.code %} 
       <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
