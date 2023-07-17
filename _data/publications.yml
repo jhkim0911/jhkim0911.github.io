@@ -6,8 +6,7 @@ main:
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.07250
     code: https://github.com/ByungKwanLee/Double-Debiased-Adversary
-    page: -
-    bibtex: -
+    bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/teaser_example_2.png
 
   - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
@@ -16,7 +15,6 @@ main:
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
     pdf: -
     code: -
-    page: -
     bibtex: -
     image: ./assets/img/teaser_example.png
 
@@ -26,7 +24,6 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.
     pdf: https://arxiv.org/abs/2303.01052
     code: https://github.com/ByungKwanLee/Causal-Adversarial-Instruments
-    page: -
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:GNzw-FHxD58J:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGUqS0:ABFrs3wAAAAAZLWSsS3gkjHW5mAxDYguq9o-doM&scisig=ABFrs3wAAAAAZLWSsZNu_BhA8h44nRcAxn8ZppQ&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/teaser_example.png
 
