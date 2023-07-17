@@ -9,7 +9,6 @@ main:
     page: -
     bibtex: -
     image: ./assets/img/teaser_example_2.png
-    <!-- notes: Early Accept -->
 
   - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
     authors: YeonJu Kim, <strong>Junho Kim</strong>, Byung-Kwan Lee, Sebin Shin, Yong Man Ro
