@@ -7,7 +7,7 @@ jour:
     pdf: https://ieeexplore.ieee.org/abstract/document/9633238
     code: https://github.com/jhkim0911/Robust-Perturbation
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rxUYiweUpxUJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGSUTY:ABFrs3wAAAAAZLWUSTax18N41XJ6wgnKDTOQwwg&scisig=ABFrs3wAAAAAZLWUSVHUKfN9-3y0XAK0BqC2cOI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/tip.PNG
     notes: IF = 10.856
 
 conf:
@@ -19,7 +19,7 @@ conf:
     pdf: https://arxiv.org/abs/2307.07250
     code: https://github.com/ByungKwanLee/Double-Debiased-Adversary
     bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/iccv23.PNG
 
   - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
     authors: YeonJu Kim, <strong>Junho Kim</strong>, Byung-Kwan Lee, Sebin Shin, Yong Man Ro
