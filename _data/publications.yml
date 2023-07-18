@@ -28,7 +28,7 @@ conf:
     pdf: https://arxiv.org/abs/
     code: https://github.com
     bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/icip23.png
+    image: ./assets/img/icip23.PNG
 
   - title: "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression"
     authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (* <strong>Co-First authors</strong>)
