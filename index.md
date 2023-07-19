@@ -17,9 +17,7 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 
 ## Education
 
-- **KAIST**, Daejeon, South Korea (2019 - present)
-  - Ph.D. in Electrical Engineering
-  - Advisor: Prof. Yong Man Ro
+- **KAIST**, Daejeon, South Korea (2019 - present)<br>Ph.D. in Electrical Engineering<br>Advisor: Prof. Yong Man Ro
 - **Dongguk University**, Seoul, South Korea (2012 - 2019)
   - B.S. in Electrical and Electronic Engineering
 
