@@ -11,14 +11,21 @@ jour:
     notes: IF = 10.856
 
 conf:
-
+  - title: "Causal Unsupervised Semantic Segmentation"
+    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2307.07250
+    code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/iclr24.PNG
+    
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
     authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: ICCV
     conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.
     pdf: https://arxiv.org/abs/2307.07250
-    code: https://github.com/
-    bibtex: https://scholar.googleusercontent.com/
+    code: https://github.com/ByungKwanLee/Double-Debiased-Adversary
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:85cS-L3-GiwJ:scholar.google.com/&output=citation&scisdr=ClE_kdcMEKOy2YGrBfY:AFWwaeYAAAAAZSatHfa66qG7QCQqKTSuW6BxgrY&scisig=AFWwaeYAAAAAZSatHX2QzAp_-VtKXHntvh4bHNk&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/iccv23.PNG
 
   - title: "Mitigating Dataset Bias in Image Captioning through CLIP Confounder-free Captioning Network"
@@ -27,7 +34,7 @@ conf:
     conference: IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023.
     pdf: https://arxiv.org/abs/
     code: https://github.com/yeonju7kim/C2Cap
-    bibtex: https://scholar.googleusercontent.com/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BbZrGejfKqMJ:scholar.google.com/&output=citation&scisdr=ClE_kdcMEKOy2YGq8HM:AFWwaeYAAAAAZSas6HORYTyZ85YjC89t2OTroMY&scisig=AFWwaeYAAAAAZSas6KkrtxKWv-_8k0rkEss0xfU&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/icip23.PNG
 
   - title: "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression"
