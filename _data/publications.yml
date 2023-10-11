@@ -13,6 +13,7 @@ jour:
 conf:
   - title: "Causal Unsupervised Semantic Segmentation"
     authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference_short: Under Review
     conference: Under Review
     pdf: https://arxiv.org/abs/2307.07250
     code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
