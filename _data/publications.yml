@@ -15,7 +15,7 @@ conf:
     authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: Under Review
-    pdf: https://arxiv.org/abs/2307.07250
+    pdf: https://arxiv.org/abs/2310.07379
     code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/iclr24.png
