@@ -4,12 +4,12 @@ layout: homepage
 
 ## <u>About Me</u>
 
-Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Korea Advanced Institute of Science and Technology. I am researching in Image and Video Systems Lab., under the supervision of Professor Yong Man Ro. I have experiences with mainly machine learning, deep learning, and computer vision. Now I am more focusing on unified model, explainable ai, adversarial robustness, and causal inference.
+Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Korea Advanced Institute of Science and Technology. I am researching in Image and Video Systems Lab., under the supervision of Professor Yong Man Ro. I have experiences with mainly machine learning, deep learning, and computer vision. Now I am more focusing on large vision-language models, model robustness & safety, explainable ai, and causal inference.
 
 
 ## <u>Research Interests</u>
 
-- **Computer Vision:** image recognition, multi-modal unification, image segmentation
+- **Computer Vision:** large vision-language models image recognition, multi-modal unification, image segmentation
 - **Machine Learning:** causal inference, explainable ai, adversarial robustness, unsupervised learning
 
 
