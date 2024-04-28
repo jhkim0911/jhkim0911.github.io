@@ -18,7 +18,7 @@ conf:
     pdf: https://arxiv.org/abs/2403.13513
     code: https://github.com/IVY-LVLM/Counterfactual-Inception
     bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/iclr24.png
+    image: ./assets/img/whatif.png
   - title: "Causal Unsupervised Semantic Segmentation"
     authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
