@@ -9,7 +9,7 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 
 ## <u>Research Interests</u>
 
-- **Computer Vision:** large vision-language models, large language models, multi-modal learning, image segmentation
+- **Deep Learning:** large vision-language models, large language models, multi-modal learning, image segmentation
 - **Machine Learning:** causal inference, model robustness & safety, explainable ai, unsupervised learning
 
 
