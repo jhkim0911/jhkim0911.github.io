@@ -11,6 +11,14 @@ jour:
     notes: IF = 10.856
 
 conf:
+  - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
+    authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Yeon Ju Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference_short: Under Review
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2403.13513
+    code: https://ivy-lvlm.github.io/CODE/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/CODE_overview.png
   - title: "What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models"
     authors: <strong>Junho Kim*</strong>, Yeon Ju Kim*, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
