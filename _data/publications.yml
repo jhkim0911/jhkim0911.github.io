@@ -18,7 +18,7 @@ conf:
     pdf: https://arxiv.org/abs/2403.13513
     code: https://ivy-lvlm.github.io/Counterfactual-Inception/
     bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/whatif.png
+    image: ./assets/img/cf_overview.png
     
   - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
     authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Yeon Ju Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
