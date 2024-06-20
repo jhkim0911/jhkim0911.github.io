@@ -11,23 +11,23 @@ jour:
     notes: IF = 10.856
 
 conf:
+  - title: "What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models"
+    authors: <strong>Junho Kim</strong>, Yeon Ju Kim, Yong Man Ro
+    conference_short: Under Review
+    conference: Under Review
+    pdf: https://arxiv.org/abs/2403.13513
+    code: https://ivy-lvlm.github.io/Counterfactual-Inception/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/whatif.png
+    
   - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
     authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Yeon Ju Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: Under Review
     pdf: https://arxiv.org/abs/2406.01920
     code: https://ivy-lvlm.github.io/CODE/
-    bibtex: https://scholar.googleusercontent.com/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Znm2zlB7NWQJ:scholar.google.com/&output=citation&scisdr=ClE_kdcMENbysMUld8o:AFWwaeYAAAAAZnQjb8rS2znn2mUJHwYeHkhA_Ps&scisig=AFWwaeYAAAAAZnQjbyuRUXa-UwIwpI2HGBdBdZo&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/CODE_overview.png
-    
-  - title: "What if...?: Counterfactual Inception to Mitigate Hallucination Effects in Large Multimodal Models"
-    authors: <strong>Junho Kim*</strong>, Yeon Ju Kim*, Yong Man Ro (<strong>* Co-First Authors</strong>)
-    conference_short: Under Review
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2403.13513
-    code: https://github.com/IVY-LVLM/Counterfactual-Inception
-    bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/whatif.png
     
   - title: "Causal Unsupervised Semantic Segmentation"
     authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
