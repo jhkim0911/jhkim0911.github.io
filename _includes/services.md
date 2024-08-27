@@ -9,7 +9,6 @@
   <li><a href="https://aaai.org/"><autocolor>Association for the Advancement of Artificial Intelligence (AAAI) 2025</autocolor></a></li>
 </ul>
   
-</ul>
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
