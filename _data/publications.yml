@@ -10,16 +10,7 @@ jour:
     image: ./assets/img/tip.PNG
     notes: IF = 10.856
 
-conf:
-  - title: "What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models"
-    authors: <strong>Junho Kim</strong>, Yeon Ju Kim, Yong Man Ro
-    conference_short: Under Review
-    conference: Under Review
-    pdf: https://arxiv.org/abs/2403.13513
-    code: https://ivy-lvlm.github.io/Counterfactual-Inception/
-    bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/cf_overview.png
-    
+conf:    
   - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
     authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Yeon Ju Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
@@ -37,6 +28,15 @@ conf:
     code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/iclr24.png
+
+  - title: "What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models"
+    authors: <strong>Junho Kim</strong>, Yeon Ju Kim, Yong Man Ro
+    conference_short: EMNLP
+    conference: Findings of the Association for Computational Linguistics: EMNLP <strong>(EMNLP Findings)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2403.13513
+    code: https://ivy-lvlm.github.io/Counterfactual-Inception/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/cf_overview.png
     
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
     authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro (<strong>* Co-First Authors</strong>)
