@@ -21,6 +21,7 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 
 ## <u>News</u>
 
+- **[Sep. 2024]** One paper is accepted to EMNLP 2024!
 - **[Jul. 2023]** One paper is accepted to ICCV 2023!
 - **[Jun. 2023]** One paper is accepted to ICIP 2023!
 - **[Feb. 2023]** One paper is accepted to CVPR 2023!
