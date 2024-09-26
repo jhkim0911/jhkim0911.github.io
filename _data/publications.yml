@@ -25,7 +25,8 @@ conf:
     conference_short: NeurIPS
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2406.01920
-    code: https://ivy-lvlm.github.io/CODE/
+    code: https://github.com/IVY-LVLM/CODE
+    project: https://ivy-lvlm.github.io/CODE/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Znm2zlB7NWQJ:scholar.google.com/&output=citation&scisdr=ClE_kdcMENbysMUld8o:AFWwaeYAAAAAZnQjb8rS2znn2mUJHwYeHkhA_Ps&scisig=AFWwaeYAAAAAZnQjbyuRUXa-UwIwpI2HGBdBdZo&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/CODE_overview.png
     
@@ -34,7 +35,8 @@ conf:
     conference_short: EMNLP
     conference: Findings of the Association for Computational Linguistics <strong>(EMNLP Findings)</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.13513
-    code: https://ivy-lvlm.github.io/Counterfactual-Inception/
+    code: https://github.com/IVY-LVLM/Counterfactual-Inception
+    project: https://ivy-lvlm.github.io/Counterfactual-Inception/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/cf_overview.png
     
