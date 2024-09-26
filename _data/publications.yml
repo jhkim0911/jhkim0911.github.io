@@ -32,7 +32,7 @@ conf:
   - title: "What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models"
     authors: <strong>Junho Kim</strong>, Yeon Ju Kim, Yong Man Ro
     conference_short: EMNLP
-    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP)</strong>, 2024.
+    conference: Findings of the Association for Computational Linguistics <strong>(EMNLP Findings)</strong>, 2024.
     pdf: https://arxiv.org/abs/2403.13513
     code: https://ivy-lvlm.github.io/Counterfactual-Inception/
     bibtex: https://scholar.googleusercontent.com/
