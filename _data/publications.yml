@@ -20,7 +20,7 @@ jour:
     image: ./assets/img/iclr24.png
 
 conf:
-  - title: "Look Every Frame All at Once: Video-$\(\\text{Ma}\)^2$mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
+  - title: 'Look Every Frame All at Once: Video-$\text{Ma}^2$mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing'
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyun Jun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: "Under Review"
