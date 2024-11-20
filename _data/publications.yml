@@ -28,7 +28,7 @@ conf:
     code: https://github.com/
     page: https://
     bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/
+    image: ./assets/img/mamba.png
     
   - title: "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis"
     authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Hosu Lee, Yong Man Ro (<strong>* Co-First Authors</strong>)
@@ -38,7 +38,7 @@ conf:
     code: https://github.com/
     page: https://
     bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/
+    image: ./assets/img/salova.png
     
   - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
     authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Yeon Ju Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
