@@ -21,7 +21,7 @@ jour:
 
 conf:
   - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
-    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyun Jun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: "Under Review"
     pdf: https://arxiv.org/
@@ -31,7 +31,7 @@ conf:
     image: ./assets/img/mamba.png
     
   - title: "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis"
-    authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Hosu Lee, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Hosu Lee, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: "Under Review"
     pdf: https://arxiv.org/
@@ -41,7 +41,7 @@ conf:
     image: ./assets/img/salova.png
     
   - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
-    authors: <strong>Junho Kim*</strong>, Hyun Jun Kim*, Yeon Ju Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Yeonju Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: NeurIPS
     conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024"
     pdf: https://arxiv.org/abs/2406.01920
@@ -51,7 +51,7 @@ conf:
     image: ./assets/img/CODE_overview.png
     
   - title: "What if...?: Thinking Counterfactual Keywords Helps to Mitigate Hallucination in Large Multi-modal Models"
-    authors: <strong>Junho Kim</strong>, Yeon Ju Kim, Yong Man Ro
+    authors: <strong>Junho Kim</strong>, Yeonju Kim, Yong Man Ro
     conference_short: EMNLP
     conference: "Findings of the Association for Computational Linguistics: EMNLP <strong>(EMNLP)</strong>, 2024"
     pdf: https://arxiv.org/abs/2403.13513
