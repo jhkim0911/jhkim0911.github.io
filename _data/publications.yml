@@ -25,8 +25,8 @@ conf:
     conference_short: Under Review
     conference: "Under Review"
     pdf: https://arxiv.org/
-    code: https://github.com/
-    page: https://
+    code: https://github.com/IVY-LVLM/Video-MA2MBA
+    page: https://ivy-lvlm.github.io/Video-MA2MBA/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/mamba.png
     
@@ -73,7 +73,7 @@ conf:
     authors: YeonJu Kim, <strong>Junho Kim</strong>, Byung-Kwan Lee, Sebin Shin, Yong Man Ro
     conference_short: ICIP
     conference: "IEEE International Conference on Image Processing <strong>(ICIP)</strong>, 2023"
-    pdf: https://arxiv.org/abs/
+    pdf: https://ieeexplore.ieee.org/document/10222502/
     code: https://github.com/yeonju7kim/C2Cap
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:BbZrGejfKqMJ:scholar.google.com/&output=citation&scisdr=ClE_kdcMEKOy2YGq8HM:AFWwaeYAAAAAZSas6HORYTyZ85YjC89t2OTroMY&scisig=AFWwaeYAAAAAZSas6KkrtxKWv-_8k0rkEss0xfU&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/icip23.PNG
