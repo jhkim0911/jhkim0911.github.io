@@ -34,9 +34,9 @@ conf:
     authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Hosu Lee, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: "Under Review"
-    pdf: https://arxiv.org/
-    code: https://github.com/
-    page: https://
+    pdf: https://arxiv.org/abs/2411.16173
+    code: https://github.com/IVY-LVLM/SALOVA
+    page: https://ivy-lvlm.github.io/SALOVA/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/salova.png
     
