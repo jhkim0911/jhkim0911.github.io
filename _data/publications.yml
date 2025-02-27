@@ -32,8 +32,8 @@ conf:
     
   - title: "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis"
     authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Hosu Lee, Yong Man Ro (<strong>* Co-First Authors</strong>)
-    conference_short: Under Review
-    conference: "Under Review"
+    conference_short: CVPR
+    conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025"
     pdf: https://arxiv.org/abs/2411.16173
     code: https://github.com/IVY-LVLM/SALOVA
     page: https://ivy-lvlm.github.io/SALOVA/
