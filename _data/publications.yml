@@ -29,14 +29,25 @@ conf:
     page: https://ivy-lvlm.github.io/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/refocus.png
+    
+  - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
+    authors: Sungjune Park*, Hyunjun Kim*, <strong>Junho Kim</strong>, Seongho Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/abs/2505.23179
+    code: https://github.com/IVY-LVLM/
+    page: https://ivy-lvlm.github.io/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:x68wkeGGGbYJ:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdHP0:AAZF9b8AAAAAaD0bBP1HgeoGeSdrrfdqpWgz360&scisig=AAZF9b8AAAAAaD0bBJVahvN1kurGIuB4yP0mVg0&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/deepr1.png
+    
   - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: "Under Review"
-    pdf: https://arxiv.org/
+    pdf: https://arxiv.org/abs/2411.19460
     code: https://github.com/IVY-LVLM/Video-MA2MBA
     page: https://ivy-lvlm.github.io/Video-MA2MBA/
-    bibtex: https://scholar.googleusercontent.com/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ftMncuLJji4J:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdh6Q:AAZF9b8AAAAAaD0bn6RuPe5ePEQ-Fqgfx6W1H6M&scisig=AAZF9b8AAAAAaD0bnzNCmyLFRYD5pqB8YIGsmPM&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/mamba.png
     
   - title: "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis"
@@ -46,7 +57,7 @@ conf:
     pdf: https://arxiv.org/abs/2411.16173
     code: https://github.com/IVY-LVLM/SALOVA
     page: https://ivy-lvlm.github.io/SALOVA/
-    bibtex: https://scholar.googleusercontent.com/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:XtUwbpJduLgJ:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdJFA:AAZF9b8AAAAAaD0bPFD_smpVIq6BpnIY8wP0rpc&scisig=AAZF9b8AAAAAaD0bPHm8EDc1xz-59chjDjZf2Vo&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/salova.png
     
   - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
@@ -66,7 +77,7 @@ conf:
     pdf: https://arxiv.org/abs/2403.13513
     code: https://github.com/IVY-LVLM/Counterfactual-Inception
     page: https://ivy-lvlm.github.io/Counterfactual-Inception/
-    bibtex: https://scholar.googleusercontent.com/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:q-onfPLRV6UJ:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdT3A:AAZF9b8AAAAAaD0bV3AAJF3eN-7jPtoQbu4mCDI&scisig=AAZF9b8AAAAAaD0bVzJgLZBOqUZrYB0Nc_qtvl8&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/cf_overview.png
     
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
