@@ -20,6 +20,15 @@ jour:
     image: ./assets/img/iclr24.png
 
 conf:
+  - title: "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding"
+    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/
+    code: https://github.com/IVY-LVLM/
+    page: https://ivy-lvlm.github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/refocus.png
   - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
