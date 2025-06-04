@@ -24,7 +24,7 @@ conf:
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
     conference: "Under Review"
-    pdf: https://arxiv.org/
+    pdf: https://arxiv.org/abs/2506.01274
     code: https://github.com/IVY-LVLM/
     page: https://ivy-lvlm.github.io/
     bibtex: https://scholar.googleusercontent.com/
