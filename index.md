@@ -15,12 +15,12 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 
 ## <u>Education</u>
 
-- **KAIST**, Daejeon, South Korea (2019 - present)<br>- Ph.D. in Electrical Engineering<br>- Advisor: Prof. Yong Man Ro
-- **Dongguk University**, Seoul, South Korea (2012 - 2019)<br>- B.S. in Electrical and Electronic Engineering
+- **KAIST**, Daejeon, South Korea (2019 Aug. - 2025 Aug.)<br>- Ph.D. in Electrical Engineering<br>- Advisor: Prof. Yong Man Ro
+- **Dongguk University**, Seoul, South Korea (2012 Feb. - 2019 Feb.)<br>- B.S. in Electrical and Electronic Engineering
 
 
 ## <u>News</u>
-
+- **[Jun. 2025]** I have successfully defended my PhD thesis!
 - **[Feb. 2025]** One paper is accepted to CVPR 2025!
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024!
 - **[Sep. 2024]** One paper is accepted to EMNLP 2024!
