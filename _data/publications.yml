@@ -20,6 +20,16 @@ jour:
     image: ./assets/img/iclr24.png
     notes: IF = 7.6
 
+  - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
+    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/abs/2411.19460
+    code: https://github.com/IVY-LVLM/Video-MA2MBA
+    page: https://ivy-lvlm.github.io/Video-MA2MBA/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ftMncuLJji4J:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdh6Q:AAZF9b8AAAAAaD0bn6RuPe5ePEQ-Fqgfx6W1H6M&scisig=AAZF9b8AAAAAaD0bnzNCmyLFRYD5pqB8YIGsmPM&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/mamba.png
+
 conf:
   - title: "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding"
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
@@ -40,16 +50,6 @@ conf:
     page: https://ivy-lvlm.github.io/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:x68wkeGGGbYJ:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdHP0:AAZF9b8AAAAAaD0bBP1HgeoGeSdrrfdqpWgz360&scisig=AAZF9b8AAAAAaD0bBJVahvN1kurGIuB4yP0mVg0&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/deepr1.png
-    
-  - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
-    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
-    conference_short: Under Review
-    conference: "Under Review"
-    pdf: https://arxiv.org/abs/2411.19460
-    code: https://github.com/IVY-LVLM/Video-MA2MBA
-    page: https://ivy-lvlm.github.io/Video-MA2MBA/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ftMncuLJji4J:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdh6Q:AAZF9b8AAAAAaD0bn6RuPe5ePEQ-Fqgfx6W1H6M&scisig=AAZF9b8AAAAAaD0bnzNCmyLFRYD5pqB8YIGsmPM&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/mamba.png
     
   - title: "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis"
     authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Hosu Lee, Yong Man Ro (<strong>* Co-First Authors</strong>)
