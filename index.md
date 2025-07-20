@@ -20,6 +20,7 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 
 
 ## <u>News</u>
+- **[Jul. 2025]** One paper is accepted to PR!
 - **[Jun. 2025]** I have successfully defended my PhD thesis!
 - **[Feb. 2025]** One paper is accepted to CVPR 2025!
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024!
