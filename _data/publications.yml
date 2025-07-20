@@ -12,12 +12,13 @@ jour:
 
   - title: "Causal Unsupervised Semantic Segmentation"
     authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
-    conference_short: Under Review
-    conference: "Under Review"
+    conference_short: PR
+    conference: "Pattern Recognition <strong>(PR)</strong>, 2025"
     pdf: https://arxiv.org/abs/2310.07379
     code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/iclr24.png
+    notes: IF = 7.6
 
 conf:
   - title: "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding"
