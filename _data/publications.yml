@@ -1,25 +1,4 @@
 jour:
-
-  - title: "Robust Perturbation for Visual Explanation: Cross-Checking Mask Optimization to Avoid Class Distortion"
-    authors: <strong>Junho Kim</strong>, Seongyeop Kim, Seong Tae Kim, Yong Man Ro
-    conference_short: TIP
-    conference: "IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2021"
-    pdf: https://ieeexplore.ieee.org/abstract/document/9633238
-    code: https://github.com/jhkim0911/Robust-Perturbation
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rxUYiweUpxUJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGSUTY:ABFrs3wAAAAAZLWUSTax18N41XJ6wgnKDTOQwwg&scisig=ABFrs3wAAAAAZLWUSVHUKfN9-3y0XAK0BqC2cOI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
-    image: ./assets/img/tip.PNG
-    notes: IF = 10.856
-
-  - title: "Causal Unsupervised Semantic Segmentation"
-    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
-    conference_short: PR
-    conference: "Pattern Recognition <strong>(PR)</strong>, 2025"
-    pdf: https://arxiv.org/abs/2310.07379
-    code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
-    bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/iclr24.png
-    notes: IF = 7.6
-
   - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
@@ -29,6 +8,26 @@ jour:
     page: https://ivy-lvlm.github.io/Video-MA2MBA/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ftMncuLJji4J:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdh6Q:AAZF9b8AAAAAaD0bn6RuPe5ePEQ-Fqgfx6W1H6M&scisig=AAZF9b8AAAAAaD0bnzNCmyLFRYD5pqB8YIGsmPM&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/mamba.png
+  
+  - title: "Causal Unsupervised Semantic Segmentation"
+    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference_short: PR
+    conference: "Pattern Recognition <strong>(PR)</strong>, 2025"
+    pdf: https://arxiv.org/abs/2310.07379
+    code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/iclr24.png
+    notes: IF = 7.6
+    
+  - title: "Robust Perturbation for Visual Explanation: Cross-Checking Mask Optimization to Avoid Class Distortion"
+    authors: <strong>Junho Kim</strong>, Seongyeop Kim, Seong Tae Kim, Yong Man Ro
+    conference_short: TIP
+    conference: "IEEE Transactions on Image Processing <strong>(TIP)</strong>, 2021"
+    pdf: https://ieeexplore.ieee.org/abstract/document/9633238
+    code: https://github.com/jhkim0911/Robust-Perturbation
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:rxUYiweUpxUJ:scholar.google.com/&output=citation&scisdr=ChW4VDC-EPmy-xGSUTY:ABFrs3wAAAAAZLWUSTax18N41XJ6wgnKDTOQwwg&scisig=ABFrs3wAAAAAZLWUSVHUKfN9-3y0XAK0BqC2cOI&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
+    image: ./assets/img/tip.PNG
+    notes: IF = 10.856
 
 conf:
   - title: "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding"
