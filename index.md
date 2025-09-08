@@ -4,8 +4,7 @@ layout: homepage
 
 ## <u>About Me</u>
 
-Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Korea Advanced Institute of Science and Technology. I am researching in Image and Video Systems Lab., under the supervision of Professor Yong Man Ro. I have experiences with mainly machine learning, deep learning, and computer vision. Now I am more focusing on large vision-language models, model robustness & safety, explainable ai, and causal inference.
-
+Hello, my name is Junho Kim. I am a Postdoctoral Researcher at the University of Illinois Urbana-Champaign (UIUC) in the Rehg Lab, led by Prof. James M. Rehg. I received my Ph.D. in Electrical Engineering from KAIST, where I worked in the Image and Video Systems Lab under the supervision of Prof. Yong Man Ro. My research interests include large vision-language models, robustness & safety, explainable AI, and causal inference.
 
 ## <u>Research Interests</u>
 
@@ -20,6 +19,7 @@ Hello, my name is Junho Kim, a Ph.D. candidate in Electrical Engineering at Kore
 
 
 ## <u>News</u>
+- **[Sep. 2025]** I will be joining UIUC as a Postdoctoral Researcher!
 - **[Jul. 2025]** One paper is accepted to PR!
 - **[Jun. 2025]** I have successfully defended my PhD thesis!
 - **[Feb. 2025]** One paper is accepted to CVPR 2025!
