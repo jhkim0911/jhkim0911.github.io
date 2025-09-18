@@ -1,22 +1,9 @@
-## <u>Experience</u>
+## <u>Work Experience</u>
 
-<h4 style="margin:0 10px 0;">Hyundai MOBIS</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><autocolor>Research Engineer, Safety Electronic System Group</autocolor></li>
-  <li><autocolor>Jan. 2019 - Aug. 2019</autocolor></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Samsung Electronics</h4>
+<h4 style="margin:0 10px 0;">University of Illinois Urbana-Champaign</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Research Intern, Image Quality Development Group</autocolor></li>
-  <li><autocolor>Jun. 2018 - Aug. 2018</autocolor></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Hyundai MOBIS</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><autocolor>Research Intern, Driving Assistant System Group</autocolor></li>
-  <li><autocolor>Jan. 2018 - Feb 2018</autocolor></li>
+  <li><autocolor>Postdoctoral Researcher, Rehg Lab</autocolor></li>
+  <li><autocolor>Advisor: Prof. James M. Rehg</autocolor></li>
+  <li><autocolor>Sep. 2025 - Aug. 2019</autocolor></li>
 </ul>
