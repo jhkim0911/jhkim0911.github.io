@@ -14,8 +14,9 @@ Hello, my name is Junho Kim. I am a Postdoctoral Researcher at the University of
 - **Machine Learning:** causal inference, model robustness & safety, explainable ai, unsupervised learning
 
 
-{% include_relative _includes/experience.md %}
+## <u>Work Experience</u>
 
+- **University of Illinois Urbana-Champaign**, Urbana-Champaign, USA (Sep. 2025 - Present)<br>- Postdoctoral Researcher<br>- Advisor: Prof. James M. Rehg
 
 
 ## <u>Education</u>
