@@ -6,7 +6,7 @@ layout: homepage
 
 Hello, my name is Junho Kim. I am a Postdoctoral Researcher at the University of Illinois Urbana-Champaign (UIUC) in the Rehg Lab, led by Prof. James M. Rehg. I received my Ph.D. in Electrical Engineering from KAIST, where I worked in the Image and Video Systems Lab under the supervision of Prof. Yong Man Ro. My research interests include large vision-language models, robustness & safety, explainable AI, and causal inference.
 
-<span style="color: green;">**Contact me for collaboration opportunities**</span> - I am always open to discussing research collaborations, industry partnerships, and new projects. Feel free to reach out if you're interested in working together!
+<span style="color: green !important;">**Contact me for collaboration opportunities**</span> - I am always open to discussing research collaborations, industry partnerships, and new projects. Feel free to reach out if you're interested in working together!
 
 ## <u>Research Interests</u>
 
@@ -41,6 +41,9 @@ Hello, my name is Junho Kim. I am a Postdoctoral Researcher at the University of
 
 
 {% include_relative _includes/publications.md %}
+
+
+{% include_relative _includes/awards.md %}
 
 
 {% include_relative _includes/services.md %}
