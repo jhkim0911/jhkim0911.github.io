@@ -4,9 +4,9 @@ layout: homepage
 
 ## <u>About Me</u>
 
-I am a Postdoctoral Researcher at the University of Illinois Urbana–Champaign (UIUC), working with Prof. James M. Rehg on large-scale multimodal intelligence. I earned my Ph.D. from KAIST under Prof. Yong Man Ro.
+I am a Postdoctoral Researcher at the University of Illinois Urbana–Champaign (UIUC), working with Prof. James M. Rehg on large-scale multimodal intelligence. I completed my Ph.D. at KAIST, where I was advised by Prof. Yong Man Ro.
 
-My long-term research vision is to develop a principled scientific understanding of how multimodal models perceive, reason, and fail. I am especially interested in uncovering the underlying mechanisms that govern large vision-language models, and in building methods that make them more robust, interpretable, and reliable in open-world environments. I believe such foundations are essential for enabling multimodal systems that can generalize across tasks, domains, and modalities.
+My long-term research interest lies in understanding how multimodal models perceive and reason about the world—and why they sometimes fail. I study the factors that drive the behavior of large vision-language models and design methods that make them more reliable, robust, and interpretable. My goal is to build principled foundations that support multimodal systems capable of adapting across different tasks, domains, and real-world conditions.
 
 <span style="color: #008000 !important; font-weight: bold;">Contact me for collaboration opportunities</span> - I am always open to discussing research collaborations, industry partnerships, and new projects. Feel free to reach out if you're interested in working together!
 
