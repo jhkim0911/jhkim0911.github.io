@@ -24,7 +24,7 @@ My long-term research interest lies in understanding how multimodal models perce
 
 ## <u>Education</u>
 
-- **KAIST**, Daejeon, South Korea (2019 Aug. - 2025 Aug.)<br>- Ph.D. in Electrical Engineering<br>- Advisor: Prof. Yong Man Ro
+- **KAIST**, Daejeon, South Korea (2019 Aug. - 2025 Aug.)<br>- Ph.D. in Electrical Engineering<br>- Advisor: Prof. Yong Man Ro<br>- Dissertation: Advancing Factuality in Large Vision-Language Models through Selective Visual Information and Textual Context Refinement
 - **Dongguk University**, Seoul, South Korea (2012 Feb. - 2019 Feb.)<br>- B.S. in Electrical and Electronic Engineering
 
 
