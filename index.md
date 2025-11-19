@@ -18,7 +18,7 @@ My long-term research interest lies in understanding how multimodal models perce
 
 ## <u>Work Experience</u>
 
-- **University of Illinois Urbana-Champaign**, Urbana-Champaign, USA (Sep. 2025 - Present)<br>- Postdoctoral Researcher<br>- Advisor: Prof. James M. Rehg
+- **University of Illinois Urbana-Champaign**, USA (Sep. 2025 - Present)<br>- Postdoctoral Research Associate<br>- Advisor: Prof. James M. Rehg
 
 
 ## <u>Education</u>
@@ -28,7 +28,7 @@ My long-term research interest lies in understanding how multimodal models perce
 
 
 ## <u>News</u>
-- **[Sep. 2025]** I will be joining UIUC as a Postdoctoral Researcher!
+- **[Sep. 2025]** I joined UIUC as a Postdoc!
 - **[Jul. 2025]** One paper is accepted to PR!
 - **[Jun. 2025]** I have successfully defended my PhD thesis!
 - **[Feb. 2025]** One paper is accepted to CVPR 2025!
