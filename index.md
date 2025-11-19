@@ -12,8 +12,9 @@ My long-term research interest lies in understanding how multimodal models perce
 
 ## <u>Research Interests</u>
 
-- **CV, NLP:** large vision-language models, large language models, multi-modal learning, video understanding
-- **Machine Learning:** causal inference, model robustness & safety, explainable ai, unsupervised learning
+- **Large Vision–Language Models:** exploring how multi-modal models perceive, generate, and reason across visual, textual, and temporal data
+- **Multimodal Learning & Video Understanding:** integrating vision, language, and time to analyze real-world interactions at scale
+- **Robustness, Safety & Causal Analysis:** diagnosing failure modes, identifying causal relations, and designing explainable, trustworthy models
 
 
 ## <u>Work Experience</u>
