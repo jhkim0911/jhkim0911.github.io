@@ -1,4 +1,14 @@
 jour:
+  - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
+    authors: Sungjune Park*, Hyunjun Kim*, <strong>Junho Kim</strong>, Seongho Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/abs/2505.23179
+    code: https://github.com/IVY-LVLM/
+    page: https://ivy-lvlm.github.io/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:x68wkeGGGbYJ:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdHP0:AAZF9b8AAAAAaD0bBP1HgeoGeSdrrfdqpWgz360&scisig=AAZF9b8AAAAAaD0bBJVahvN1kurGIuB4yP0mVg0&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/deepr1.png
+
   - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
@@ -30,6 +40,16 @@ jour:
     notes: IF = 10.856
 
 conf:
+  - title: "CoherentHand: Temporally Consistent 3D Hand Trajectory Synthesis with Semantic Motion Priors"
+    authors: Bikram Boote, <strong>Junho Kim</strong>, Ozgur Kara, Sangmin Lee, James M. Rehg
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/
+    code: https://github.com/
+    page: https://github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/coherenthand.png
+
   - title: "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding"
     authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
     conference_short: Under Review
@@ -38,17 +58,7 @@ conf:
     code: https://github.com/IVY-LVLM/
     page: https://ivy-lvlm.github.io/
     bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/refocus.png
-    
-  - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
-    authors: Sungjune Park*, Hyunjun Kim*, <strong>Junho Kim</strong>, Seongho Kim, Yong Man Ro (<strong>* Co-First Authors</strong>)
-    conference_short: Under Review
-    conference: "Under Review"
-    pdf: https://arxiv.org/abs/2505.23179
-    code: https://github.com/IVY-LVLM/
-    page: https://ivy-lvlm.github.io/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:x68wkeGGGbYJ:scholar.google.com/&output=citation&scisdr=CgLKDY4MENbyvowdHP0:AAZF9b8AAAAAaD0bBP1HgeoGeSdrrfdqpWgz360&scisig=AAZF9b8AAAAAaD0bBJVahvN1kurGIuB4yP0mVg0&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/deepr1.png
+    image: ./assets/img/refocus_v2.png
     
   - title: "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis"
     authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Hosu Lee, Yong Man Ro (<strong>* Co-First Authors</strong>)
