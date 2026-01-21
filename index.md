@@ -38,7 +38,6 @@ My long-term research interest lies in understanding how multimodal models perce
 - **[Sep. 2024]** One paper is accepted to NeurIPS 2024!
 - **[Sep. 2024]** One paper is accepted to EMNLP 2024!
 - **[Jul. 2023]** One paper is accepted to ICCV 2023!
-- **[Jun. 2023]** One paper is accepted to ICIP 2023!
 - **[Feb. 2023]** One paper is accepted to CVPR 2023!
 - **[Mar. 2022]** One paper is accepted to CVPR 2022!
 - **[Nov. 2021]** One paper is accepted to IEEE TIP!
