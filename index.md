@@ -29,6 +29,8 @@ My long-term research interest lies in understanding how multimodal models perce
 
 
 ## <u>News</u>
+
+- **[Dec. 2025]** The 9th CVEU workshop has been accepted to CVPR 2026. I will serve as a co-organizer.
 - **[Sep. 2025]** I joined UIUC as a Postdoc!
 - **[Jul. 2025]** One paper is accepted to PR!
 - **[Jun. 2025]** I have successfully defended my PhD thesis!
