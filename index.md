@@ -13,7 +13,7 @@ My long-term research interest lies in understanding how multimodal models perce
 ## <u>Research Interests</u>
 
 - **Large Multimodal Models:** exploring how multi-modal models perceive, generate, and reason across visual, textual, and temporal data
-- **Social Interactive Models:** developing models that understand and reason about human social behavior, interaction dynamics, and intent from multimodal signals
+- **Social Interactive Models:** developing models to understand and reason about human social behavior, interaction dynamics, intent from multimodal signals
 - **Robustness, Safety & Causal Analysis:** diagnosing failure modes, identifying causal relations, and designing explainable, trustworthy models
 
 
