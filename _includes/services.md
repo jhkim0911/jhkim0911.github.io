@@ -9,11 +9,13 @@
   <li><a href="https://aaai.org/"><autocolor>AAAI 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>ICLR 2024,2025,2026</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>WACV 2026</autocolor></a></li>
+  <li><a href="https://2026.aclweb.org/"><autocolor>ACL 2026</autocolor></a></li>
 </ul>
   
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655"><autocolor>IEEE Transactions on Audio, Speech, and Language Processing (TASLP)</autocolor></a></li>
 </ul>
