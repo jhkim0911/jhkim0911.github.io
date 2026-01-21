@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## <u>About Me</u>
+## About Me
 
 I am a Postdoctoral Researcher at the University of Illinois Urbana–Champaign (UIUC), working with Prof. James M. Rehg on large-scale multimodal intelligence. I completed my Ph.D. at KAIST, where I was advised by Prof. Yong Man Ro.
 
@@ -23,27 +23,29 @@ I enjoy connecting with fellow researchers and students. Send me an email with s
 I can present on topics related to large vision-language models, multimodal reasoning, or model robustness and reliability. Feel free to email me with details about your event.
 </details>
 
-## <u>Research Interests</u>
+<br>
+
+## Research Interests
 
 - **Large Multimodal Models:** exploring how multi-modal models perceive, generate, and reason across visual, textual, and temporal data
 - **Social Interactive Models:** developing models to understand and reason about human social behavior, interaction dynamics, intent from multimodal signals
 - **Robustness, Safety & Causal Analysis:** diagnosing failure modes, identifying causal relations, and designing explainable, trustworthy models
 
 
-## <u>Work Experience</u>
+## Work Experience
 
 - **University of Illinois Urbana-Champaign**, USA (Sep. 2025 - Present)<br>- Postdoctoral Research Associate<br>- Advisor: Prof. James M. Rehg
 
 
-## <u>Education</u>
+## Education
 
 - **KAIST**, Daejeon, South Korea (2019 Aug. - 2025 Aug.)<br>- Ph.D. in Electrical Engineering<br>- Advisor: Prof. Yong Man Ro<br>- Dissertation: Advancing Factuality in Large Vision-Language Models through Selective Visual Information and Textual Context Refinement
 - **Dongguk University**, Seoul, South Korea (2012 Feb. - 2019 Feb.)<br>- B.S. in Electrical and Electronic Engineering
 
 
-## <u>News</u>
+## News
 
-- **[Dec. 2025]** The 9<sup>th</sup> CVEU workshop @CVPR 2026! I will serve as a co-organizer.
+- **[Dec. 2025]** CVEU 9<sup>th</sup> workshop @CVPR2026! I will serve as a co-organizer.
 - **[Sep. 2025]** I joined UIUC as a Postdoc!
 - **[Jul. 2025]** One paper is accepted to PR!
 - **[Jun. 2025]** I have successfully defended my PhD thesis!

@@ -40,15 +40,19 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
-.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: var(--global-theme-color); padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
+.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: #0ea5e9; padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
 
 .publications ol.bibliography li .abbr abbr a { color: white; }
 
 .publications ol.bibliography li .abbr abbr a:hover { text-decoration: none; }
 
-.publications ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
+.publications ol.bibliography li .abbr .award { color: #0ea5e9 !important; border: 1px solid #0ea5e9; }
 
 .publications ol.bibliography li .title { font-weight: bolder; }
+
+.publications ol.bibliography li .title a { color: #0ea5e9; }
+
+.publications ol.bibliography li .title a:hover { color: #0284c7; }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
