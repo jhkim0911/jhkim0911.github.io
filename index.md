@@ -9,17 +9,17 @@ I am a Postdoctoral Researcher at the University of Illinois Urbana–Champaign 
 My long-term research interest lies in understanding how multimodal models perceive and reason about the world—and why they sometimes fail. I study the factors that drive the behavior of large vision-language models and design methods that make them more reliable, robust, and interpretable. My goal is to build principled foundations that support multimodal systems capable of adapting across different tasks, domains, and real-world conditions.
 
 <details>
-<summary><span style="color: #008000 !important; font-weight: bold;">Interested in collaborating?</span></summary>
+<summary><span style="color: #0d9488 !important; font-weight: bold;">Interested in collaborating?</span></summary>
 I welcome collaborations with researchers and students interested in multimodal learning, social interactive models, and robustness. If our research interests align, feel free to reach out!
 </details>
 
 <details>
-<summary><span style="color: #008000 !important; font-weight: bold;">Want to schedule a meeting?</span></summary>
+<summary><span style="color: #0d9488 !important; font-weight: bold;">Want to schedule a meeting?</span></summary>
 I enjoy connecting with fellow researchers and students. Send me an email with some context about what you'd like to discuss, and we can find a time that works.
 </details>
 
 <details>
-<summary><span style="color: #008000 !important; font-weight: bold;">Looking for a speaker?</span></summary>
+<summary><span style="color: #0d9488 !important; font-weight: bold;">Looking for a speaker?</span></summary>
 I can present on topics related to large vision-language models, multimodal reasoning, or model robustness and reliability. Feel free to email me with details about your event.
 </details>
 

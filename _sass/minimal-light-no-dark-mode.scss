@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
 
 body {
-  background-color: #fff;
+  background-color: #fafafa;
   padding:0px;
-  font: 16.0px/1.5 "IBM Plex Serif", serif; 
-  color:#595959;
+  font: 16px/1.65 "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  color:#374151;
   font-weight:400;
-  margin:0
+  margin:0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .pub-row {
@@ -20,16 +21,18 @@ body {
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#0d9488!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
-  margin-right:1rem}
+  margin-right:1rem;
+  transition: all 0.2s ease;
+}
 
-.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
-    color:black;
-    transform: scale(1.2)}
+.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#f0fdfa;
+    color:#0f766e;
+    transform: scale(1.15)}
     /*
     .social-icons a:after {
         content: '';
@@ -96,7 +99,8 @@ body {
 
 email {
     font-size: 14px;
-    font-family: "IBM Plex Mono", monospace;
+    font-family: "JetBrains Mono", monospace;
+    color: #6b7280;
 }
 
 .icon-button i{
@@ -129,7 +133,7 @@ email {
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#595959;
+  color:#374151;
 }
 
 lightonly {
@@ -196,21 +200,21 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#0f766e;
   margin:0 0 20px;
 }
 
 h1 {
-  font-weight: 500;
-  color:#043361;
+  font-weight: 600;
+  color:#0f766e;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
-  font-weight: 500;
+  color:#0f766e;
+  font-weight: 600;
   margin:2px 0px 15px;
-  font-size: 157%;
+  font-size: 150%;
 }
 
 p, ul, ol, table, pre, dl {
@@ -226,12 +230,13 @@ h1 {
 }
 
 a {
-  color:#39c;
+  color:#0d9488;
   text-decoration:none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
-  color:#069;
+  color:#0f766e;
 }
 
 a small {
@@ -258,8 +263,8 @@ blockquote {
 }
 
 code, pre {
-  font-family:"IBM Plex Mono", Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  font-family:"JetBrains Mono", Monaco, Consolas, monospace;
+  color:#1f2937;
 }
 
 pre {
@@ -350,8 +355,8 @@ header ul a:active {
 }
 
 strong {
-  color:#222;
-  font-weight:500;
+  color:#1f2937;
+  font-weight:600;
 }
 
 header ul li + li + li {
@@ -527,5 +532,5 @@ footer {
   margin-top: 10px;
   margin-left: 0px;
   display:none;
-  font-family: "IBM Plex Mono", monospace;
+  font-family: "JetBrains Mono", monospace;
 }
