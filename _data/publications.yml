@@ -1,6 +1,7 @@
 jour:
   - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
-    authors: Sungjune Park*, Hyunjun Kim*, <strong>Junho Kim</strong>, Seongho Kim, Yong Man Ro    conference_short: Under Review
+    authors: Sungjune Park*, Hyunjun Kim*, <strong>Junho Kim</strong>, Seongho Kim, Yong Man Ro
+    conference_short: Under Review
     conference: "Under Review"
     pdf: https://arxiv.org/abs/2505.23179
     code: https://github.com/IVY-LVLM/
@@ -9,7 +10,8 @@ jour:
     image: ./assets/img/deepr1.png
 
   - title: "Look Every Frame All at Once: Video-Ma<sup>2</sup>mba for Efficient Long-form Video Understanding with Multi-Axis Gradient Checkpointing"
-    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro    conference_short: Under Review
+    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro
+    conference_short: Under Review
     conference: "Under Review"
     pdf: https://arxiv.org/abs/2411.19460
     code: https://github.com/IVY-LVLM/Video-MA2MBA
@@ -18,7 +20,8 @@ jour:
     image: ./assets/img/mamba.png
   
   - title: "Causal Unsupervised Semantic Segmentation"
-    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro    conference_short: PR
+    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro
+    conference_short: PR
     conference: "Pattern Recognition <strong>(PR)</strong>, 2025"
     pdf: https://arxiv.org/abs/2310.07379
     code: https://github.com/ByungKwanLee/Causal-Unsupervised-Segmentation
@@ -48,7 +51,8 @@ conf:
     image: ./assets/img/coherenthand.png
 
   - title: "ReFoCUS: Reinforcement-guided Frame Optimization for Contextual Understanding"
-    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro    conference_short: Under Review
+    authors: Hosu Lee*, <strong>Junho Kim*</strong>, Hyunjun Kim, Yong Man Ro
+    conference_short: Under Review
     conference: "Under Review"
     pdf: https://arxiv.org/abs/2506.01274
     code: https://github.com/IVY-LVLM/
@@ -57,7 +61,8 @@ conf:
     image: ./assets/img/refocus_v2.png
     
   - title: "SALOVA: Segment-Augmented Long Video Assistant for Targeted Retrieval and Routing in Long-Form Video Analysis"
-    authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Hosu Lee, Yong Man Ro    conference_short: CVPR
+    authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Hosu Lee, Yong Man Ro
+    conference_short: CVPR
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025"
     pdf: https://arxiv.org/abs/2411.16173
     code: https://github.com/IVY-LVLM/SALOVA
@@ -66,7 +71,8 @@ conf:
     image: ./assets/img/salova.png
     
   - title: "CODE: Contrasting Self-generated Description to Combat Hallucination in Large Multi-modal Models"
-    authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Yeonju Kim, Yong Man Ro    conference_short: NeurIPS
+    authors: <strong>Junho Kim*</strong>, Hyunjun Kim*, Yeonju Kim, Yong Man Ro
+    conference_short: NeurIPS
     conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024"
     pdf: https://arxiv.org/abs/2406.01920
     code: https://github.com/IVY-LVLM/CODE
@@ -85,7 +91,8 @@ conf:
     image: ./assets/img/cf_overview.png
     
   - title: "Mitigating Adversarial Vulnerability through Causal Parameter Estimation by Adversarial Double Machine Learning"
-    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro    conference_short: ICCV
+    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro
+    conference_short: ICCV
     conference: "IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023"
     pdf: https://arxiv.org/abs/2307.07250
     code: https://github.com/ByungKwanLee/Double-Debiased-Adversary
@@ -93,7 +100,8 @@ conf:
     image: ./assets/img/iccv23.PNG
 
   - title: "Demystifying Causal Features on Adversarial Examples and Causal Inoculation for Robust Network by Adversarial Instrumental Variable Regression"
-    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro    conference_short: CVPR
+    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro
+    conference_short: CVPR
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023"
     pdf: https://arxiv.org/abs/2303.01052
     code: https://github.com/ByungKwanLee/Causal-Adversarial-Instruments
@@ -101,7 +109,8 @@ conf:
     image: ./assets/img/cvpr23.PNG
 
   - title: "Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network"
-    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro    conference_short: CVPR
+    authors: Byung-Kwan Lee*, <strong>Junho Kim*</strong>, Yong Man Ro
+    conference_short: CVPR
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022"
     pdf: https://arxiv.org/abs/2204.02738
     code: https://github.com/ByungKwanLee/Masking-Adversarial-Damage
@@ -109,7 +118,8 @@ conf:
     image: ./assets/img/cvpr22.PNG
 
   - title: "Distilling Robust and Non-Robust Features in Adversarial Examples by Information Bottleneck"
-    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro    conference_short: NeurIPS
+    authors: <strong>Junho Kim*</strong>, Byung-Kwan Lee*, Yong Man Ro
+    conference_short: NeurIPS
     conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2021"
     pdf: https://arxiv.org/abs/2204.02735
     code: https://github.com/ByungKwanLee/Adversarial-Information-Bottleneck
