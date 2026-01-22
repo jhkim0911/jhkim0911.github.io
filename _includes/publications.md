@@ -1,5 +1,5 @@
-<h2 id="publications" style="margin: 2px 0px 10px;">Selected Papers</h2>
-<p style="color: #1f2937; margin: 0 0 0 0;"><em>* Co-First Authors, † Corresponding Authors</em></p>
+<h2 id="publications" style="margin: 2px 0px 8px;">Selected Papers</h2>
+<p style="color: #1f2937; margin: 0 0 8px 0;"><em>* Co-First Authors, † Corresponding Authors</em></p>
 
 <div class="publications">
 <ol class="bibliography">
