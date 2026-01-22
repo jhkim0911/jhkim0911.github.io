@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<h3 style="margin:8px 10px 8px; color: #2D9CDB; font-size: 1rem; font-weight: 600;">Conference</h3>
+<h3 style="margin:8px 10px 8px; color: #14b8a6; font-size: 1rem; font-weight: 600;">Conference</h3>
 
 {% for link in site.data.publications.conf %}
 
@@ -46,7 +46,7 @@
 
 {% endfor %}
 
-<h3 style="margin:8px 10px 8px; color: #2D9CDB; font-size: 1rem; font-weight: 600;">Journal</h3>
+<h3 style="margin:8px 10px 8px; color: #14b8a6; font-size: 1rem; font-weight: 600;">Journal</h3>
 
 {% for link in site.data.publications.jour %}
 
