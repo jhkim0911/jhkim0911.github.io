@@ -1,5 +1,5 @@
 ## Services and Talk
-<h4 style="margin:0 10px 0; color: #14b8a6; font-size: 1rem; font-weight: 600;">Program Committee & Conference Reviewers</h4>
+<h4 style="margin:0 10px 0; color: #0f766e; font-size: 1rem; font-weight: 600;">Program Committee & Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>CVPR 2023,2024,2025, 2026</autocolor></a></li>
@@ -12,7 +12,7 @@
   <li><a href="https://2026.aclweb.org/"><autocolor>ACL 2026</autocolor></a></li>
 </ul>
   
-<h4 style="margin:0 10px 0; color: #14b8a6; font-size: 1rem; font-weight: 600;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0; color: #0f766e; font-size: 1rem; font-weight: 600;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
@@ -20,7 +20,7 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655"><autocolor>IEEE Transactions on Audio, Speech, and Language Processing (TASLP)</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0; color: #14b8a6; font-size: 1rem; font-weight: 600;">Invited Talk</h4>
+<h4 style="margin:0 10px 0; color: #0f766e; font-size: 1rem; font-weight: 600;">Invited Talk</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor>Invited Talk at AMI LAB, KHU, Video Understanding with Large Vision-Language Models: Challenges and Progress, 2025</autocolor></a></li>
