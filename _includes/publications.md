@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Papers</h2>
+<p style="font-size: 0.85rem; color: #6b7280; margin: 8px 0 0 0;"><em>* Co-First Authors, † Corresponding Authors</em></p>
 
 <div class="publications">
 <ol class="bibliography">
