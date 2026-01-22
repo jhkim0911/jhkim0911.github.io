@@ -45,18 +45,18 @@ I can present on topics related to large vision-language models, multimodal reas
 
 ## News
 
-- **[Dec. 2025]** 🎉 CVEU 9<sup>th</sup> workshop @CVPR2026! I will serve as a co-organizer.
-- **[Sep. 2025]** 🎓 I joined UIUC as a Postdoc!
-- **[Jul. 2025]** 📄 One paper is accepted to PR!
-- **[Jun. 2025]** 🎓 I have successfully defended my PhD thesis!
-- **[Feb. 2025]** 📄 One paper is accepted to CVPR 2025!
-- **[Sep. 2024]** 📄 One paper is accepted to NeurIPS 2024!
-- **[Sep. 2024]** 📄 One paper is accepted to EMNLP 2024!
-- **[Jul. 2023]** 📄 One paper is accepted to ICCV 2023!
-- **[Feb. 2023]** 📄 One paper is accepted to CVPR 2023!
-- **[Mar. 2022]** 📄 One paper is accepted to CVPR 2022!
-- **[Nov. 2021]** 📄 One paper is accepted to IEEE TIP!
-- **[Sep. 2021]** 📄 One paper is accepted to NeurIPS 2021!
+- **[12/2025]** 🎉 CVEU 9<sup>th</sup> workshop @CVPR2026! I will serve as a co-organizer.
+- **[09/2025]** 🎓 I joined UIUC as a Postdoc!
+- **[07/2025]** 📄 One paper is accepted to PR!
+- **[06/2025]** 🎓 I have successfully defended my PhD thesis!
+- **[02/2025]** 📄 One paper is accepted to CVPR 2025!
+- **[09/2024]** 📄 One paper is accepted to NeurIPS 2024!
+- **[09/2024]** 📄 One paper is accepted to EMNLP 2024!
+- **[07/2023]** 📄 One paper is accepted to ICCV 2023!
+- **[02/2023]** 📄 One paper is accepted to CVPR 2023!
+- **[03/2022]** 📄 One paper is accepted to CVPR 2022!
+- **[11/2021]** 📄 One paper is accepted to IEEE TIP!
+- **[09/2021]** 📄 One paper is accepted to NeurIPS 2021!
 
 
 {% include_relative _includes/publications.md %}
