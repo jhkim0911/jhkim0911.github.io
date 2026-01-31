@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## Hi, I'm Junho
 
 I am a Postdoctoral Researcher at the University of Illinois Urbana–Champaign (UIUC), working with Prof. James M. Rehg on large-scale multimodal intelligence. I completed my Ph.D. at KAIST, where I was advised by Prof. Yong Man Ro.
 
