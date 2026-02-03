@@ -40,6 +40,16 @@ jour:
     notes: IF = 10.856
 
 conf:
+  - title: "CAPA: Contribution-Aware Pruning and FFN Approximation for Efficient Large Vision-Language Models"
+    authors: Samyak Jha, <strong>Junho Kim†</strong>
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/pdf/2602.00247
+    code: https://github.com/
+    page: https://github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/capa.png
+
   - title: "CoherentHand: Temporally Consistent 3D Hand Trajectory Synthesis with Semantic Motion Priors"
     authors: Bikram Boote, <strong>Junho Kim</strong>, Ozgur Kara, Sangmin Lee, James M. Rehg
     conference_short: Under Review
