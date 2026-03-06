@@ -40,6 +40,26 @@ jour:
     notes: IF = 10.856
 
 conf:
+  - title: "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding"
+    authors: <strong>Junho Kim*</strong>, Hosu Lee*, James M. Rehg, Minsu Kim, Yong Man Ro
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/
+    code: https://github.com/
+    page: https://github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/stride.png
+
+  - title: "Narrative-Driven Paper-to-Slide Generation via ArcDeck"
+    authors: Tarik Can Ozden*, Sachidanand VS*, Furkan Horoz*, Ozgur Kara, <strong>Junho Kim†</strong>, James M. Rehg†
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/
+    code: https://github.com/
+    page: https://github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/arcdeck.png
+
   - title: "CAPA: Contribution-Aware Pruning and FFN Approximation for Efficient Large Vision-Language Models"
     authors: Samyak Jha, <strong>Junho Kim†</strong>
     conference_short: Under Review
