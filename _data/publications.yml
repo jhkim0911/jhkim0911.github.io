@@ -46,7 +46,7 @@ conf:
     conference: "Under Review"
     pdf: https://arxiv.org/
     code: https://github.com/
-    page: https://github.io/
+    page: https://interlive-team.github.io/STRIDE/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/stride.png
 
