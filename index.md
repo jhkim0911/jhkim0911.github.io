@@ -45,7 +45,7 @@ I can present on topics related to large vision-language models, multimodal reas
 
 ## News
 
-- <span class="news-date">04/2026</span> 📄 One papers are accepted to ACL 2026 Findings!
+- <span class="news-date">04/2026</span> 📄 One papers is accepted to ACL 2026 Findings!
 - <span class="news-date">02/2026</span> 📄 Two papers are accepted to CVPR 2026 Findings!
 - <span class="news-date">12/2025</span> 🎉 CVEU 9<sup>th</sup> workshop @CVPR2026! I will serve as a co-organizer.
 - <span class="news-date">09/2025</span> 🎓 I joined UIUC as a Postdoc!
