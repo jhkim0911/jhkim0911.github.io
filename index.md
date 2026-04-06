@@ -53,7 +53,7 @@ I can present on topics related to large vision-language models, multimodal reas
 - <span class="news-date">06/2025</span> 🎓 I have successfully defended my PhD thesis!
 - <span class="news-date">02/2025</span> 📄 One paper is accepted to CVPR 2025!
 - <span class="news-date">09/2024</span> 📄 One paper is accepted to NeurIPS 2024!
-- <span class="news-date">09/2024</span> 📄 One paper is accepted to EMNLP Findings 2024!
+- <span class="news-date">09/2024</span> 📄 One paper is accepted to EMNLP 2024 Findings!
 - <span class="news-date">07/2023</span> 📄 One paper is accepted to ICCV 2023!
 - <span class="news-date">02/2023</span> 📄 One paper is accepted to CVPR 2023!
 - <span class="news-date">03/2022</span> 📄 One paper is accepted to CVPR 2022!
