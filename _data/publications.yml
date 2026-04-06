@@ -62,8 +62,8 @@ conf:
 
   - title: "CAPA: Contribution-Aware Pruning and FFN Approximation for Efficient Large Vision-Language Models"
     authors: Samyak Jha, <strong>Junho Kim†</strong>
-    conference_short: Under Review
-    conference: "Under Review"
+    conference_short: ACL
+    conference: "Findings of the Association for Computational Linguistics: ACL <strong>(ACL)</strong>, 2026"
     pdf: https://arxiv.org/pdf/2602.00247
     code: https://github.com/
     page: https://github.io/
