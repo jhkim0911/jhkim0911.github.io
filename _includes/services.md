@@ -4,8 +4,8 @@
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>CVPR 2023,2024,2025,2026</autocolor></a></li>
   <li><a href="http://iccv2023.thecvf.com/"><autocolor>ICCV 2023,2025</autocolor></a></li>
-  <li><a href="https://eccv2024.ecva.net/"><autocolor>ECCV 2022,2024</autocolor></a></li>
-  <li><a href="https://neurips.cc/"><autocolor>NeurIPS 2023,2024,2025</autocolor></a></li>
+  <li><a href="https://eccv2024.ecva.net/"><autocolor>ECCV 2022,2024,2026</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>NeurIPS 2023,2024,2025,2026</autocolor></a></li>
   <li><a href="https://aaai.org/"><autocolor>AAAI 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>ICLR 2024,2025,2026</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>WACV 2026</autocolor></a></li>
