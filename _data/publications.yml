@@ -40,6 +40,16 @@ jour:
     notes: IF = 10.856
 
 conf:
+  - title: "GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions"
+    authors: <strong>Junho Kim</strong>, Xu Cao, Houze Yang, Bikram Boote, Ana Jojic, Fiona Ryan, Bolin Lai, Sangmin Lee, James M. Rehg
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/
+    code: https://github.com/
+    page: https://interlive-team.github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/grasp.png
+
   - title: "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding"
     authors: <strong>Junho Kim*</strong>, Hosu Lee*, James M. Rehg, Minsu Kim, Yong Man Ro
     conference_short: Under Review
