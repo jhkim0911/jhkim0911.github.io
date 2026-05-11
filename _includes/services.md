@@ -23,7 +23,7 @@
 <h4 style="margin:0 10px 0; color: #0f766e; font-size: 1rem; font-weight: 600;">Invited Talk</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href=""><autocolor>Invted Talk at 2026 TechArt Conference, What Should Multimodal LLMs Look At in Video?: Selective Perception in Video Understanding, 2026</autocolor></a></li>
+  <li><a href=""><autocolor>Invted Talk at 2026 TechArt Conference, CAU, What Should Multimodal LLMs Look At in Video?: Selective Perception in Video Understanding, 2026</autocolor></a></li>
   <li><a href=""><autocolor>Invited Talk at AMI LAB, KHU, Video Understanding with Large Vision-Language Models: Challenges and Progress, 2025</autocolor></a></li>
   <li><a href=""><autocolor>Guest Lecture at CS 598 CVH — Computer Vision for Health, University of Illinois Urbana–Champaign, Evolutions of LLMs and VLMs, 2025</autocolor></a></li>
   <li><a href=""><autocolor>Invited Talk (세상과 만나는 강연) at Gimpo High School, Shaping the Future of AI: from History to Large Language Model, 2025</autocolor></a></li>
