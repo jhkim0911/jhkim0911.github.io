@@ -53,8 +53,8 @@ conf:
   - title: "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding"
     authors: <strong>Junho Kim*</strong>, Hosu Lee*, James M. Rehg, Minsu Kim, Yong Man Ro
     conference_short: Under Review
-    conference: "Under Review"
-    pdf: https://arxiv.org/
+    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026"
+    pdf: https://arxiv.org/abs/2603.27593
     code: https://github.com/
     page: https://interlive-team.github.io/STRIDE/
     bibtex: https://scholar.googleusercontent.com/
@@ -62,11 +62,11 @@ conf:
 
   - title: "Narrative-Driven Paper-to-Slide Generation via ArcDeck"
     authors: Tarik Can Ozden*, Sachidanand VS*, Furkan Horoz*, Ozgur Kara, <strong>Junho Kim†</strong>, James M. Rehg†
-    conference_short: Under Review
-    conference: "Under Review"
-    pdf: https://arxiv.org/
+    conference_short: ECCV
+    conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026"
+    pdf: https://arxiv.org/abs/2604.11969
     code: https://github.com/
-    page: https://github.io/
+    page: https://arcdeck.org/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/arcdeck.png
 
@@ -74,7 +74,7 @@ conf:
     authors: Samyak Jha, <strong>Junho Kim†</strong>
     conference_short: ACL
     conference: "Findings of the Association for Computational Linguistics: ACL <strong>(ACL)</strong>, 2026"
-    pdf: https://arxiv.org/pdf/2602.00247
+    pdf: https://arxiv.org/abs/2602.00247
     code: https://github.com/
     page: https://github.io/
     bibtex: https://scholar.googleusercontent.com/
@@ -84,7 +84,7 @@ conf:
     authors: Bikram Boote, <strong>Junho Kim</strong>, Ozgur Kara, Sangmin Lee, James M. Rehg
     conference_short: CVPR
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings <strong>(CVPR)</strong>, 2026"
-    pdf: https://arxiv.org/
+    pdf: https://openaccess.thecvf.com/content/CVPR2026F/papers/Boote_CoherentHand_Temporally_Consistent_3D_Hand_Trajectory_Synthesis_with_Semantic_Motion_CVPRF_2026_paper.pdf
     code: https://github.com/
     page: https://github.io/
     bibtex: https://scholar.googleusercontent.com/
@@ -96,7 +96,7 @@ conf:
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings <strong>(CVPR)</strong>, 2026"
     pdf: https://arxiv.org/abs/2506.01274
     code: https://github.com/IVY-LVLM/
-    page: https://ivy-lvlm.github.io/
+    page: https://interlive-team.github.io/ReFoCUS/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/refocus_v2.png
     
