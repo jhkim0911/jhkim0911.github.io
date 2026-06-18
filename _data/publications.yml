@@ -52,7 +52,7 @@ conf:
 
   - title: "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding"
     authors: <strong>Junho Kim*</strong>, Hosu Lee*, James M. Rehg, Minsu Kim, Yong Man Ro
-    conference_short: Under Review
+    conference_short: ECCV
     conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026"
     pdf: https://arxiv.org/abs/2603.27593
     code: https://github.com/
