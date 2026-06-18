@@ -55,7 +55,7 @@ conf:
     conference_short: ECCV
     conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026"
     pdf: https://arxiv.org/abs/2603.27593
-    code: https://github.com/
+    code: https://github.com/interlive-team/STRIDE
     page: https://interlive-team.github.io/STRIDE/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/stride.png
@@ -65,7 +65,7 @@ conf:
     conference_short: ECCV
     conference: "European Conference on Computer Vision <strong>(ECCV)</strong>, 2026"
     pdf: https://arxiv.org/abs/2604.11969
-    code: https://github.com/
+    code: https://github.com/RehgLab/ArcDeck
     page: https://arcdeck.org/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/arcdeck.png
@@ -95,7 +95,7 @@ conf:
     conference_short: CVPR
     conference: "IEEE/CVF Conference on Computer Vision and Pattern Recognition Findings <strong>(CVPR)</strong>, 2026"
     pdf: https://arxiv.org/abs/2506.01274
-    code: https://github.com/IVY-LVLM/
+    code: https://github.com/interlive-team/ReFoCUS
     page: https://interlive-team.github.io/ReFoCUS/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/refocus_v2.png
