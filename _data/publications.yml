@@ -50,6 +50,26 @@ conf:
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/grasp.png
 
+  - title: "PRISM: Predictive Recomposition via Semantic Latent Decomposition for View-invariant Video Representation Learning"
+    authors: Youngchae Chee*, Hosu Lee*, Sungjune Park, <strong>Junho Kim†</strong>, Yong Man Ro†
+    conference_short: EMNLP
+    conference: "Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026"
+    pdf: https://arxiv.org/abs/
+    code: https://github.com/
+    page: https://github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/prism.png
+
+  - title: "ConvDeck: Conversational Paper-to-Slide Generation via Stage-Specific User Feedback"
+    authors: Tarik Can Ozden*, Sachidanand VS*, Furkan Horoz*, Ozgur Kara, Dilek Hakkani-Tür†, <strong>Junho Kim†</strong>, James M. Rehg†
+    conference_short: EMNLP
+    conference: "Findings of the Association for Computational Linguistics: EMNLP <strong>(EMNLP)</strong>, 2026"
+    pdf: https://arxiv.org/abs/
+    code: https://github.com/
+    page: https://github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/convdeck.png
+
   - title: "STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding"
     authors: <strong>Junho Kim*</strong>, Hosu Lee*, James M. Rehg, Minsu Kim, Yong Man Ro
     conference_short: ECCV
