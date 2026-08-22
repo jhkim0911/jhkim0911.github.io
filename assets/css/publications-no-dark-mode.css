@@ -18,7 +18,7 @@
     box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
 }
 
-:root { --global-bg-color: #fafafa; --global-code-bg-color: rgba(13, 148, 136, 0.05); --global-text-color: #374151; --global-text-color-light: #6b7280; --global-theme-color: #0d9488; --global-hover-color: #0f766e; --global-footer-bg-color: #1c1c1c; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #6b7280; }
+:root { --global-bg-color: #fafafa; --global-code-bg-color: rgba(29, 78, 137, 0.05); --global-text-color: #374151; --global-text-color-light: #6b7280; --global-theme-color: #1D4E89; --global-hover-color: #C2410C; --global-footer-bg-color: #1c1c1c; --global-footer-text-color: #e8e8e8; --global-footer-link-color: #ffffff; --global-distill-app-color: #6b7280; }
 
 blockquote { background: var(--global-bg-color); border-left: 2px solid var(--global-theme-color); margin: 1.5em 10px; padding: 0.5em 10px; font-size: 1.2rem; }
 
@@ -40,19 +40,19 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr { height: 8rem; margin-bottom: 0.5rem; }
 
-.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: #2FB4DE; padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
+.publications ol.bibliography li .abbr abbr { display: inline-block; background-color: #13294B; padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px; }
 
 .publications ol.bibliography li .abbr abbr a { color: white; }
 
 .publications ol.bibliography li .abbr abbr a:hover { text-decoration: none; }
 
-.publications ol.bibliography li .abbr .award { color: #2FB4DE !important; border: 1px solid #2FB4DE; }
+.publications ol.bibliography li .abbr .award { color: #C2410C !important; border: 1px solid #C2410C; }
 
 .publications ol.bibliography li .title { font-weight: bolder; }
 
-.publications ol.bibliography li .title a { color: #2FB4DE; }
+.publications ol.bibliography li .title a { color: #1D4E89; }
 
-.publications ol.bibliography li .title a:hover { color: #2596be; }
+.publications ol.bibliography li .title a:hover { color: #C2410C; }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
