@@ -4,7 +4,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<h3 style="margin:0px 10px 8px; color: #13294B; font-size: 1rem; font-weight: 600;">Conference Papers</h3>
+<h3 style="margin:0px 10px 8px; color: #C2410C; font-size: 1rem; font-weight: 600;">Conference Papers</h3>
 
 {% for link in site.data.publications.conf %}
 
@@ -33,7 +33,7 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#C2410C">{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
@@ -47,7 +47,7 @@
 
 {% endfor %}
 
-<h3 style="margin:8px 10px 8px; color: #13294B; font-size: 1rem; font-weight: 600;">Journal Papers</h3>
+<h3 style="margin:8px 10px 8px; color: #C2410C; font-size: 1rem; font-weight: 600;">Journal Papers</h3>
 
 {% for link in site.data.publications.jour %}
 
@@ -76,7 +76,7 @@
       <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       {% endif %}
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#C2410C">{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
