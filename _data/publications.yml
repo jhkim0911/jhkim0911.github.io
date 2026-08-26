@@ -55,8 +55,8 @@ conf:
     conference_short: EMNLP
     conference: "Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026"
     pdf: https://arxiv.org/abs/
-    code: https://github.com/
-    page: https://github.io/
+    code: https://github.com/litcoderr/prism
+    page: https://litcoderr.github.io/prism_page/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/prism.png
 
