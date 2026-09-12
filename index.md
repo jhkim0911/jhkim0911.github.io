@@ -91,7 +91,7 @@ I can present on topics related to large vision-language models, multimodal reas
 <details class="misc">
 <summary><h2 id="misc">Misc.</h2></summary>
 <ul>
-  <li><a href="./travel.html">✈️ Travel</a> — places I have been</li>
-  <li><a href="./reflections.html">📝 Reflections</a> — thoughts, lessons, and failures along the way</li>
+  <li><a href="./travel.html">✈️ Travel</a></li>
+  <li><a href="./reflections.html">📝 Reflections</a></li>
 </ul>
 </details>
