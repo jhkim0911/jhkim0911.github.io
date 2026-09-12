@@ -1,5 +1,6 @@
 ---
 layout: homepage
+updated: 2026-09-12
 ---
 
 <a href="./">← Back to Home</a>
@@ -27,6 +28,8 @@ layout: homepage
   <li><strong>{{ c.flag }} {{ c.country }}</strong>{% if c.status == "born" %} <em>born</em>{% endif %}{% if c.cities.size > 0 %} <span class="cities">· {% for city in c.cities %}{{ city.name }}{% if city.status == "home" %} <em>living</em>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>{% endif %}</li>
 {% endfor %}
 </ul>
+
+<p class="travel-updated">Updated on {{ page.updated | date: "%b %d, %Y" }}</p>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
