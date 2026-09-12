@@ -10,7 +10,7 @@ Here is the story: I recently came across a “CV of failures” written by a st
 
 Every day on LinkedIn and X, we come across announcements of accepted papers, new positions, awards, and other milestones. But naturally, we tend to share the parts of our careers that we want others to see, while the rejections, uncertainty, and failed attempts usually stay out of view.
 
-At a recent conference, I happened to meet another postdoc who told me that, from the outside, it looked like things had been going really well for me. I appreciated that, but it also reminded me how little we really see of what happens behind those announcements. If someone happens to find this page while going through a rejection, I hope it reminds them that they are not the only one.
+At a recent conference, I happened to meet another postdoc who told me that, from the outside, it looked like things had been going really well for me. I appreciated that, but it also reminded me how little we really see of what happens behind those announcements. If someone happens to find this page while going through a rejection, I hope it reminds them that you are not the only one.
 
 ### Paper Submission Rejections
 
