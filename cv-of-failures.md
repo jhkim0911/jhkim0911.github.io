@@ -34,12 +34,18 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 
 - Google DeepMind (2023) — Interviewed, not selected.
 - Meta (2024) — Three teams, three interviews, three rejections.
-- Amazon (2024) — Two interview processes, two rejections.
+- Amazon (2023, 2024) — Back-to-back interview rejections.
 - NVIDIA (2024) — Interviewed, not selected.
 - Microsoft (2024) — Interviewed, not selected.
-- ByteDance (2024) — Interviewed, not selected.
 - University of Wisconsin–Madison (2024) — Visiting, not selected.
 - Georgia Tech (2025) — Visiting offer, but funding issue.
+
+### Unsuccessful Job Applications
+
+*I was very fortunate to receive my current postdoc offer fairly early, so I did not have to spend too much time worrying about job applications at that stage. Still, I had a few rejections along the way, and I am sure there will be many more as I figure out what comes next.*
+
+- ByteDance — Interviewed, not selected.
+- Apple — Interviewed, not selected.
 
 <!--
 Sections to fill in (uncomment and edit):
