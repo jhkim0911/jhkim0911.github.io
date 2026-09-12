@@ -32,14 +32,14 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 
 *I had many more applications that did not make it past the initial screening stage, so I only list those that reached the interview stage or progressed substantially.*
 
-- Google DeepMind — Interviewed, not selected.
-- Meta — Three teams, three interviews, three rejections.
-- Amazon — Two interview processes, two rejections.
-- NVIDIA — Interviewed, not selected.
-- Apple — Interviewed, not selected.
-- ByteDance — Interviewed, not selected.
-- University of Wisconsin–Madison — Visiting scholar application, unsuccessful.
-- Georgia Tech — Received a visiting scholar offer, but could not proceed due to funding constraints.
+- Google DeepMind (2023) — Interviewed, not selected.
+- Meta (2024) — Three teams, three interviews, three rejections.
+- Amazon (2024) — Two interview processes, two rejections.
+- NVIDIA (2024) — Interviewed, not selected.
+- Microsoft (2024) — Interviewed, not selected.
+- ByteDance (2024) — Interviewed, not selected.
+- University of Wisconsin–Madison (2024) — Visiting scholar application, unsuccessful.
+- Georgia Tech (2025) — Received a visiting scholar offer, but could not proceed due to funding constraints.
 
 <!--
 Sections to fill in (uncomment and edit):
