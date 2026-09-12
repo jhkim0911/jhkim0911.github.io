@@ -544,3 +544,45 @@ footer {
   width: 5.5em;
   color: #13294B;
 }
+
+#news-list.collapsed > ul > li:nth-child(n+8) {
+  display: none;
+}
+
+.news-toggle {
+  display: block;
+  margin: -10px 0 20px 40px;
+  padding: 0;
+  border: none;
+  background: none;
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #1D4E89;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.news-toggle:hover {
+  color: #C2410C;
+}
+
+.misc summary {
+  list-style: none;
+  cursor: pointer;
+}
+
+.misc summary::-webkit-details-marker {
+  display: none;
+}
+
+.misc summary h2::after {
+  content: "▾";
+  margin-left: 10px;
+  font-size: 60%;
+  color: #13294B;
+}
+
+.misc[open] summary h2::after {
+  content: "▴";
+}

@@ -45,6 +45,8 @@ I can present on topics related to large vision-language models, multimodal reas
 
 ## News
 
+<div id="news-list" markdown="1">
+
 - <span class="news-date">08/2026</span> 📄 Two papers are accepted to EMNLP 2026 (1 Main, 1 Findings)!
 - <span class="news-date">06/2026</span> 📄 Three papers are accepted to ECCV 2026!
 - <span class="news-date">04/2026</span> 📄 One papers is accepted to ACL 2026 Findings!
@@ -62,6 +64,20 @@ I can present on topics related to large vision-language models, multimodal reas
 - <span class="news-date">11/2021</span> 📄 One paper is accepted to IEEE TIP!
 - <span class="news-date">09/2021</span> 📄 One paper is accepted to NeurIPS 2021!
 
+</div>
+<button class="news-toggle" type="button">Show more ▾</button>
+<script>
+(function () {
+  var list = document.getElementById('news-list');
+  var btn = document.querySelector('.news-toggle');
+  list.classList.add('collapsed');
+  btn.addEventListener('click', function () {
+    var collapsed = list.classList.toggle('collapsed');
+    btn.textContent = collapsed ? 'Show more ▾' : 'Show less ▴';
+  });
+})();
+</script>
+
 
 {% include_relative _includes/publications.md %}
 
@@ -70,3 +86,12 @@ I can present on topics related to large vision-language models, multimodal reas
 
 
 {% include_relative _includes/services.md %}
+
+
+<details class="misc">
+<summary><h2 id="misc">Misc.</h2></summary>
+<ul>
+  <li><a href="./travel.html">✈️ Travel</a> — places I have been</li>
+  <li><a href="./reflections.html">📝 Reflections</a> — thoughts, lessons, and failures along the way</li>
+</ul>
+</details>
