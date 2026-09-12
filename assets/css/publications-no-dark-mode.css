@@ -77,3 +77,15 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+.pub-filter { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 12px; }
+
+.pub-filter button { font: inherit; font-size: 12px; font-weight: 600; color: #13294B; background: none; border: 1px solid #13294B; border-radius: 4px; padding: 2px 10px; cursor: pointer; transition: all 0.2s ease; }
+
+.pub-filter button:hover { color: #C2410C; border-color: #C2410C; }
+
+.pub-filter button.active { color: #fff; background: #13294B; border-color: #13294B; }
+
+.publications[data-filter="conf"] [data-type]:not([data-type="conf"]),
+.publications[data-filter="jour"] [data-type]:not([data-type="jour"]),
+.publications[data-filter="preprint"] [data-type]:not([data-type="preprint"]) { display: none; }
