@@ -77,7 +77,7 @@
   flag: 🇵🇭
   id: 608
   cities:
-    - { name: Cebu, lat: 10.3157, lon: 123.8854 }
+    - { name: Boracay, lat: 11.9674, lon: 121.9248 }
 
 - country: Vietnam
   flag: 🇻🇳

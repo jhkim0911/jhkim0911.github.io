@@ -43,9 +43,10 @@ layout: homepage
   var status = {};
   var cities = [];
   trips.forEach(function (c) {
-    status[String(c.id).padStart(3, '0')] = c.status || 'visited';
+    var cid = String(c.id).padStart(3, '0');
+    status[cid] = c.status || 'visited';
     (c.cities || []).forEach(function (city) {
-      cities.push({ name: city.name, country: c.country, lat: city.lat, lon: city.lon, home: city.status === 'home' });
+      cities.push({ name: city.name, country: c.country, cid: cid, lat: city.lat, lon: city.lon, home: city.status === 'home' });
     });
   });
 
@@ -58,23 +59,58 @@ layout: homepage
   }
   function hideTip() { tip.hidden = true; }
 
+  // State/province a city belongs to: the one containing it, else the nearest one
+  // within 50 km (coastal city centres can sit just outside the simplified shoreline).
+  function regionOf(regions, city) {
+    var p = [city.lon, city.lat];
+    var own = regions.filter(function (r) { return r.properties.cid === city.cid; });
+    for (var i = 0; i < own.length; i++) if (d3.geoContains(own[i], p)) return own[i];
+    var best = null, bestD = 50 / 6371;
+    own.forEach(function (r) {
+      d3.geoStream(r, {
+        point: function (x, y) { var d = d3.geoDistance(p, [x, y]); if (d < bestD) { bestD = d; best = r; } },
+        lineStart: function () {}, lineEnd: function () {}, polygonStart: function () {}, polygonEnd: function () {}, sphere: function () {}
+      });
+    });
+    return best;
+  }
+
   var projection = d3.geoNaturalEarth1();
   var path = d3.geoPath(projection);
 
-  d3.json('./assets/data/countries-110m.json').then(function (world) {
-    var features = topojson.feature(world, world.objects.countries).features
-      .filter(function (f) { return f.id !== '010'; });
-    var land = { type: 'FeatureCollection', features: features };
+  Promise.all([
+    d3.json('./assets/data/countries-110m.json'),
+    d3.json('./assets/data/states-50m.json')
+  ]).then(function (res) {
+    var regions = topojson.feature(res[1], res[1].objects.states).features;
+    var split = {};
+    regions.forEach(function (r) { split[r.properties.cid] = true; });
+    var countries = topojson.feature(res[0], res[0].objects.countries).features
+      .filter(function (f) { return f.id !== '010' && !split[f.id]; });
+    var land = { type: 'FeatureCollection', features: countries.concat(regions) };
     projection.fitWidth(W, land);
     H = Math.ceil(path.bounds(land)[1][1]);
     svg.attr('viewBox', '0 0 ' + W + ' ' + H);
 
+    cities.forEach(function (c) {
+      var r = split[c.cid] && regionOf(regions, c);
+      if (r) r.properties.visited = true;
+    });
+
     g.append('g').selectAll('path')
-      .data(features).join('path')
+      .data(countries).join('path')
       .attr('class', function (f) { return 'country ' + (status[f.id] || ''); })
       .attr('d', path)
       .filter(function (f) { return status[f.id]; })
       .on('mousemove', function (event, f) { showTip(event, f.properties.name); })
+      .on('mouseleave', hideTip);
+
+    g.append('g').selectAll('path')
+      .data(regions).join('path')
+      .attr('class', function (r) { return 'country region' + (r.properties.visited ? ' visited' : ''); })
+      .attr('d', path)
+      .filter(function (r) { return r.properties.visited; })
+      .on('mousemove', function (event, r) { showTip(event, r.properties.name + ', ' + r.properties.country); })
       .on('mouseleave', hideTip);
 
     var dots = g.append('g').selectAll('g')
