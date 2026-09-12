@@ -38,8 +38,8 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 - NVIDIA (2024) — Interviewed, not selected.
 - Microsoft (2024) — Interviewed, not selected.
 - ByteDance (2024) — Interviewed, not selected.
-- University of Wisconsin–Madison (2024) — Visiting scholar application, unsuccessful.
-- Georgia Tech (2025) — Received a visiting scholar offer, but could not proceed due to funding constraints.
+- University of Wisconsin–Madison (2024) — Visiting, not selected.
+- Georgia Tech (2025) — Visiting offer, but funding issue.
 
 <!--
 Sections to fill in (uncomment and edit):
