@@ -30,7 +30,7 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 
 ### Unsuccessful Internship / Visiting Scholar Applications
 
-*I had many more applications that did not make it past the initial screening stage, so I only list those that reached the interview stage or progressed substantially.*
+*I had many more applications that did not make it past the initial screening stage, so I only list those that reached the interview stage.*
 
 - Google DeepMind (2023) — Interviewed, not selected.
 - Meta (2024) — Three teams, three interviews, three rejections.
@@ -42,7 +42,7 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 
 ### Unsuccessful Job Applications
 
-*I was very fortunate to receive my current postdoc offer fairly early, so I did not have to spend too much time worrying about job applications at that stage. Still, I had a few rejections along the way, and I am sure there will be many more as I figure out what comes next.*
+*I was very fortunate to receive my current postdoc offer fairly early, so I did not have to spend too much time worrying about job applications at that stage. Still, I had a few rejections along the way, and I am pretty sure there will be many more as I figure out what comes next.*
 
 - ByteDance — Interviewed, not selected.
 - Apple — Interviewed, not selected.
