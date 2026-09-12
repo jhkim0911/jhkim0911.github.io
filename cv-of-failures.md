@@ -28,7 +28,7 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 - ICCV 2025
 - NeurIPS 2025
 
-### Internship / Visiting Scholar Applications
+### Unsuccessful Internship / Visiting Scholar Applications
 
 *I had many more applications that did not make it past the initial screening stage, so I only list those that reached the interview stage or progressed substantially.*
 
@@ -38,7 +38,7 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 - NVIDIA (2024) — Interviewed, not selected.
 - Microsoft (2024) — Interviewed, not selected.
 - University of Wisconsin–Madison (2024) — Visiting, not selected.
-- Georgia Tech (2025) — Visiting offer, but funding issue.
+- Georgia Tech (2024) — Visiting offer, but funding issue.
 
 ### Unsuccessful Job Applications
 
