@@ -48,7 +48,9 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .abbr .award { color: #C2410C !important; border: 1px solid #C2410C; }
 
-.publications ol.bibliography li .title { font-weight: bolder; }
+.publications ol.bibliography li .col-sm-9 { font-size: 14px; line-height: 1.5; }
+
+.publications ol.bibliography li .title { font-weight: bolder; font-size: 15px; }
 
 .publications ol.bibliography li .title a { color: #1D4E89; }
 
