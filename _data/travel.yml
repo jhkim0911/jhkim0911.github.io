@@ -1,0 +1,94 @@
+# Travel map data (rendered on travel.md).
+# id: ISO 3166-1 numeric code, matches assets/data/countries-110m.json
+# country status: born | visited (default)   city status: home | visited (default)
+
+- country: South Korea
+  flag: 🇰🇷
+  id: 410
+  status: born
+  cities: []
+
+- country: United States
+  flag: 🇺🇸
+  id: 840
+  cities:
+    - { name: Urbana-Champaign, lat: 40.1106, lon: -88.2073, status: home }
+    - { name: Chicago, lat: 41.8781, lon: -87.6298 }
+    - { name: New York, lat: 40.7128, lon: -74.0060 }
+    - { name: Boston, lat: 42.3601, lon: -71.0589 }
+    - { name: Miami, lat: 25.7617, lon: -80.1918 }
+    - { name: New Orleans, lat: 29.9511, lon: -90.0715 }
+    - { name: Denver, lat: 39.7392, lon: -104.9903 }
+    - { name: Los Angeles, lat: 34.0522, lon: -118.2437 }
+    - { name: Honolulu, lat: 21.3069, lon: -157.8583 }
+
+- country: Canada
+  flag: 🇨🇦
+  id: 124
+  cities:
+    - { name: Vancouver, lat: 49.2827, lon: -123.1207 }
+
+- country: United Kingdom
+  flag: 🇬🇧
+  id: 826
+  cities:
+    - { name: London, lat: 51.5074, lon: -0.1278 }
+
+- country: Denmark
+  flag: 🇩🇰
+  id: 208
+  cities:
+    - { name: Copenhagen, lat: 55.6761, lon: 12.5683 }
+
+- country: Sweden
+  flag: 🇸🇪
+  id: 752
+  cities:
+    - { name: Malmö, lat: 55.6050, lon: 13.0038 }
+
+- country: Czechia
+  flag: 🇨🇿
+  id: 203
+  cities:
+    - { name: Prague, lat: 50.0755, lon: 14.4378 }
+
+- country: Austria
+  flag: 🇦🇹
+  id: 40
+  cities:
+    - { name: Vienna, lat: 48.2082, lon: 16.3738 }
+
+- country: Italy
+  flag: 🇮🇹
+  id: 380
+  cities:
+    - { name: Rome, lat: 41.9028, lon: 12.4964 }
+    - { name: Florence, lat: 43.7696, lon: 11.2558 }
+
+- country: Japan
+  flag: 🇯🇵
+  id: 392
+  cities:
+    - { name: Tokyo, lat: 35.6762, lon: 139.6503 }
+    - { name: Osaka, lat: 34.6937, lon: 135.5023 }
+    - { name: Fukuoka, lat: 33.5904, lon: 130.4017 }
+
+- country: Philippines
+  flag: 🇵🇭
+  id: 608
+  cities:
+    - { name: Cebu, lat: 10.3157, lon: 123.8854 }
+
+- country: Vietnam
+  flag: 🇻🇳
+  id: 704
+  cities:
+    - { name: Da Nang, lat: 16.0544, lon: 108.2022 }
+
+- country: Australia
+  flag: 🇦🇺
+  id: 36
+  cities:
+    - { name: Sydney, lat: -33.8688, lon: 151.2093 }
+    - { name: Canberra, lat: -35.2809, lon: 149.1300 }
+    - { name: Gold Coast, lat: -28.0167, lon: 153.4000 }

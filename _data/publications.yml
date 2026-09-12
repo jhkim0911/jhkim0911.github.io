@@ -3,7 +3,7 @@ preprint:
     authors: <strong>Junho Kim</strong>, Xu Cao, Houze Yang, Bikram Boote, Ana Jojic, Fiona Ryan, Bolin Lai, Sangmin Lee, James M. Rehg
     conference_short: Under Review
     conference: "Under Review"
-    pdf: https://arxiv.org/
+    pdf: https://arxiv.org/pdf/2605.15764
     code: https://github.com/
     page: https://interlive-team.github.io/
     bibtex: https://scholar.googleusercontent.com/
@@ -55,7 +55,7 @@ conf:
     authors: Youngchae Chee*, Hosu Lee*, Sungjune Park, <strong>Junho Kim†</strong>, Yong Man Ro†
     conference_short: EMNLP
     conference: "Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026"
-    pdf: https://arxiv.org/abs/
+    pdf: https://arxiv.org/pdf/2608.30388v1
     code: https://github.com/litcoderr/prism
     page: https://litcoderr.github.io/prism_page/
     bibtex: https://scholar.googleusercontent.com/
@@ -65,9 +65,9 @@ conf:
     authors: Tarik Can Ozden*, Sachidanand VS*, Furkan Horoz*, Ozgur Kara, Dilek Hakkani-Tür†, <strong>Junho Kim†</strong>, James M. Rehg†
     conference_short: EMNLP
     conference: "Findings of the Association for Computational Linguistics: EMNLP <strong>(EMNLP)</strong>, 2026"
-    pdf: https://arxiv.org/abs/
-    code: https://github.com/
-    page: https://github.io/
+    pdf: https://arxiv.org/pdf/2609.00226
+    code: https://github.com/RehgLab/ConvDeck
+    page: https://convdeck.github.io/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/convdeck.png
 
