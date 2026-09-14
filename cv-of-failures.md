@@ -22,6 +22,8 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 - ICCV 2021
 - NeurIPS 2022
 - ICLR 2023
+- CVPR 2023
+- NeurIPS 2023
 - ICLR 2024
 - ECCV 2024
 - CVPR 2025
