@@ -46,8 +46,8 @@ At a recent conference, I happened to meet another postdoc who told me that, fro
 
 *I was very fortunate to receive my current postdoc offer fairly early, so I did not have to spend too much time worrying about job applications at that stage. Still, I had a few rejections along the way, and I am pretty sure there will be many more as I figure out what comes next.*
 
-- ByteDance — Interviewed, not selected.
-- Apple — Interviewed, not selected.
+- ByteDance (2025) — Interviewed, not selected.
+- Apple (2025) — Interviewed, not selected.
 
 <!--
 Sections to fill in (uncomment and edit):
