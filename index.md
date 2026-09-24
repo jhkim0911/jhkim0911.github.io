@@ -47,6 +47,7 @@ I can present on topics related to large vision-language models, multimodal reas
 
 <div id="news-list" markdown="1">
 
+- <span class="news-date">09/2026</span> 📄 Three papers are accepted to NeurIPS 2026!
 - <span class="news-date">08/2026</span> 📄 Two papers are accepted to EMNLP 2026 (1 Main, 1 Findings)!
 - <span class="news-date">06/2026</span> 📄 Three papers are accepted to ECCV 2026!
 - <span class="news-date">04/2026</span> 📄 One papers is accepted to ACL 2026 Findings!

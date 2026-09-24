@@ -1,14 +1,4 @@
 preprint:
-  - title: "GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions"
-    authors: <strong>Junho Kim</strong>, Xu Cao, Houze Yang, Bikram Boote, Ana Jojic, Fiona Ryan, Bolin Lai, Sangmin Lee, James M. Rehg
-    conference_short: Under Review
-    conference: "Under Review"
-    pdf: https://arxiv.org/pdf/2605.15764
-    code: https://github.com/
-    page: https://interlive-team.github.io/
-    bibtex: https://scholar.googleusercontent.com/
-    image: ./assets/img/grasp.png
-
   - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
     authors: Sungjune Park*, Hyunjun Kim*, <strong>Junho Kim</strong>, Seongho Kim, Yong Man Ro
     conference_short: Under Review
@@ -51,6 +41,26 @@ jour:
     notes: IF = 10.856
 
 conf:
+  - title: "TimeTraveler: Temporal Strategy Planning with Time Dictionary for Streaming Video Understanding"
+    authors: Minkuk Kim, <strong>Junho Kim†</strong>, Seong Tae Kim†
+    conference_short: NeurIPS
+    conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024"
+    pdf: https://arxiv.org/pdf/
+    code: https://github.com/
+    page: https://interlive-team.github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/timetraveler.png
+
+  - title: "GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions"
+    authors: <strong>Junho Kim</strong>, Xu Cao, Houze Yang, Bikram Boote, Ana Jojic, Fiona Ryan, Bolin Lai, Sangmin Lee, James M. Rehg
+    conference_short: NeurIPS
+    conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024"
+    pdf: https://arxiv.org/pdf/2605.15764
+    code: https://github.com/
+    page: https://interlive-team.github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/grasp.png
+
   - title: "PRISM: Predictive Recomposition via Semantic Latent Decomposition for View-invariant Video Representation Learning"
     authors: Youngchae Chee*, Hosu Lee*, Sungjune Park, <strong>Junho Kim†</strong>, Yong Man Ro†
     conference_short: EMNLP
