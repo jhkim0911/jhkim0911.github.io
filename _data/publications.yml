@@ -1,5 +1,16 @@
 preprint:
   - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
+    authors: Bang Xiao, Wenqi Jia, Ozgur Kara, Tiancheng Shen, Yibo Yang, Bolin Lai†, <strong>Junho Kim†</strong>, James M. Rehg†
+    conference_short: Under Review
+    conference: "Under Review"
+    pdf: https://arxiv.org/pdf/2609.36219
+    code: https://github.com/bangx7/LeRF
+    page: https://lerf-project.github.io/
+    bibtex: https://scholar.googleusercontent.com/
+    image: ./assets/img/lerf.png
+
+
+  - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
     authors: Sungjune Park*, Hyunjun Kim*, <strong>Junho Kim</strong>, Seongho Kim, Yong Man Ro
     conference_short: Under Review
     conference: "Under Review"
@@ -57,7 +68,7 @@ conf:
     conference: "Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2026"
     pdf: https://arxiv.org/pdf/2605.15764
     code: https://github.com/
-    page: https://interlive-team.github.io/
+    page: https://social-reaoning.github.io/grasp/
     bibtex: https://scholar.googleusercontent.com/
     image: ./assets/img/grasp.png
 
