@@ -1,5 +1,5 @@
 preprint:
-  - title: "DIP-R1: Deep Inspection and Perception with RL Looking Through and Understanding Complex Scenes"
+  - title: "LeRF: Learning Reference Coordinate Frames for Perspective Taking Reasoning"
     authors: Bang Xiao, Wenqi Jia, Ozgur Kara, Tiancheng Shen, Yibo Yang, Bolin Lai†, <strong>Junho Kim†</strong>, James M. Rehg†
     conference_short: Under Review
     conference: "Under Review"
