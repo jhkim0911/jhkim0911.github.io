@@ -1,5 +1,5 @@
 ## Services and Talk
-<h4 style="margin:0 10px 0; color: #C2410C; font-size: 1rem; font-weight: 600;">Program Committee & Conference Reviewers</h4>
+<h4 style="margin:0 10px 0; color: #C2410C; font-size: 1rem; font-weight: 600;">Area Chair & Program Committee & Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="http://cvpr2023.thecvf.com/"><autocolor>CVPR 2023,2024,2025,2026</autocolor></a></li>
@@ -9,7 +9,7 @@
   <li><a href="https://aaai.org/"><autocolor>AAAI 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>ICLR 2024,2025,2026</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>WACV 2026</autocolor></a></li>
-  <li><a href="https://2026.aclweb.org/"><autocolor>ACL 2026</autocolor></a></li>
+  <li><a href="https://aclrollingreview.org/"><autocolor>ACL ARR 2026</autocolor></a></li>
 </ul>
   
 <h4 style="margin:0 10px 0; color: #C2410C; font-size: 1rem; font-weight: 600;">Journal Reviewers</h4>
