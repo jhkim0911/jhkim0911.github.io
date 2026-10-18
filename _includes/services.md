@@ -7,8 +7,8 @@
   <li><a href="https://eccv2024.ecva.net/"><autocolor>ECCV 2022,2024,2026</autocolor></a></li>
   <li><a href="https://neurips.cc/"><autocolor>NeurIPS 2023,2024,2025,2026</autocolor></a></li>
   <li><a href="https://aaai.org/"><autocolor>AAAI 2025</autocolor></a></li>
-  <li><a href="https://iclr.cc/"><autocolor>ICLR 2024,2025,2026</autocolor></a></li>
-  <li><a href="https://iclr.cc/"><autocolor>WACV 2026</autocolor></a></li>
+  <li><a href="https://iclr.cc/"><autocolor>ICLR 2024,2025,2026, 2027</autocolor></a></li>
+  <li><a href="https://wacv.thecvf.com/"><autocolor>WACV 2026</autocolor></a></li>
   <li><a href="https://aclrollingreview.org/"><autocolor>ACL ARR 2026</autocolor></a></li>
 </ul>
   
