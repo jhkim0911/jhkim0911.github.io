@@ -4,9 +4,9 @@ layout: homepage
 
 ## Hi, I'm Junho
 
-I am a Postdoctoral Researcher at the University of Illinois Urbana–Champaign (UIUC), working with Prof. James M. Rehg on large-scale multimodal intelligence. I completed my Ph.D. at KAIST, where I was advised by Prof. Yong Man Ro.
+I am a Postdoctoral Researcher at the University of Illinois Urbana–Champaign, working with [Prof. James M. Rehg](https://rehg.org/) on large-scale multimodal intelligence. I completed my Ph.D. at KAIST, where I was advised by [Prof. Yong Man Ro](https://www.ivllab.kaist.ac.kr/ivylab-ivllab).
 
-My long-term research interest lies in understanding how multimodal models perceive and reason about the world—and why they sometimes fail. I study the factors that drive the behavior of large vision-language models and design methods that make them more reliable, robust, and interpretable. My goal is to build principled foundations that support multimodal systems capable of adapting across different tasks, domains, and real-world conditions.
+My research aims to develop socially intelligent multimodal AI that can understand human behavior and interactions in dynamic, real-world environments. I study how models perceive and reason about visual, linguistic, and nonverbal signals, and how these signals evolve over time. Building on my work in reliable multimodal reasoning and dynamic video understanding, my long-term goal is to develop AI agents that can understand ongoing social interactions and proactively assist people in the physical world.
 
 <details>
 <summary><span style="color: #C2410C !important; font-weight: 600; font-size: 1rem;">Interested in collaborating?</span></summary>
@@ -27,10 +27,9 @@ I can present on topics related to large vision-language models, multimodal reas
 
 ## Research Interests
 
-- **Large Multimodal Models:** exploring how multi-modal models perceive, generate, and reason across visual, textual, and temporal data
-- **Social Interactive Models:** developing models to understand and reason about human social behavior, interaction dynamics, intent from multimodal signals
-- **Robustness, Safety & Causal Analysis:** diagnosing failure modes, identifying causal relations, and designing explainable, trustworthy models
-
+- **Socially Intelligent Multimodal Agents:** developing models that understand human behavior, nonverbal social cues, and interaction dynamics to enable socially aware AI agents and robots.
+- **Dynamic Video Understanding:** understanding evolving events and temporal dynamics, enabling AI systems to perceive, reason, and respond continuously.
+- **Reliable Multimodal Reasoning:** improving the robustness, grounding, and reasoning capabilities of large multimodal models across diverse tasks and real-world environments.
 
 ## Work Experience
 
